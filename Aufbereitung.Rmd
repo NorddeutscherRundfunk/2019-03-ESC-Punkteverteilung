@@ -1,0 +1,67 @@
+---
+title: "Datenaufbereitung: Tendenzen bei der Punkteverteilung"
+output:
+  html_notebook:
+    toc: true
+    toc_float: true
+    number_sections: false
+  html_document: default
+---
+
+<style>
+  h1 { margin-top: 40px; }
+  h2 { font-size: 20px;	margin-top: 25px; margin-bottom: 5px;}
+  h3 { font-size: 16px;	margin-top: 25px; margin-bottom: 5px;}
+</style>
+
+```{r}
+library(needs)
+needs(tidyverse, dplyr)
+```
+
+```{r}
+esc_punkte <- read_csv("esc_history/esc_history_table_points.csv") %>% 
+  filter(id != 33038) %>% # Duplikate entfernen
+  filter(id != 33223)
+```
+
+```{r}
+wahlberechtigte <- esc_punkte %>%
+  filter(year %in% c(1975:2015)) %>%
+  filter(mode == "FINAL") %>%
+  group_by(year) %>%
+  distinct(from_country_key) %>%
+  select(year, from_country_key)
+```
+
+```{r include=FALSE}
+esc_finale <- read_csv("esc_history/esc_history_table_mainevent.csv")
+```
+
+```{r}
+finalisten <- esc_finale %>%
+  filter(event == 3) %>%
+  filter(year %in% c(1975:2015)) %>%
+  select(year, country) %>%
+  rename(to_country_key = country)
+
+wahlberechtigte_finalisten <- left_join(wahlberechtigte, finalisten, by = "year")
+```
+
+```{r}
+punkte <- esc_punkte %>%
+  filter(year %in% c(1975:2015)) %>%
+  filter(mode == "FINAL") %>%
+  filter(points > 0) %>% 
+  select(from_country_key, to_country_key, year, points)
+
+gr_null <- left_join(wahlberechtigte_finalisten, punkte, by = c("from_country_key", "to_country_key", "year"))
+```
+
+```{r}
+punkteverteilung <- gr_null %>%
+  filter(from_country_key != to_country_key) %>% # Land kann sich selbst keine Punkte geben
+  mutate(points = replace(points, which(is.na(points)), 0)) # Bei allen übrigen Kombinationen sind null Punkte geflossen
+
+write_csv(punkteverteilung, "punkteverteilung.csv")
+```

@@ -1,0 +1,129 @@
+---
+title: "Auswertung: Tendenzen bei der Punkteverteilung"
+output:
+  html_notebook:
+    toc: true
+    toc_float: true
+    number_sections: false
+  html_document: default
+---
+
+<style>
+  h1 { margin-top: 40px; }
+  h2 { font-size: 20px;	margin-top: 25px; margin-bottom: 5px;}
+  h3 { font-size: 16px;	margin-top: 25px; margin-bottom: 5px;}
+</style>
+
+```{r include=FALSE}
+library(needs)
+needs(tidyverse, dplyr)
+```
+
+```{r include=FALSE}
+punkteverteilung <- read_csv("punkteverteilung.csv")
+```
+
+```{r}
+gemeinsames_auftreten <- punkteverteilung %>%
+  group_by(from_country_key, to_country_key) %>%
+  add_count() %>%
+  rename(abstimmungsgelegenheiten = n) %>%
+  mutate(punktedurchschnitt = round(mean(points), 1)) %>%
+  distinct(from_country_key, to_country_key, punktedurchschnitt, abstimmungsgelegenheiten) %>%
+  arrange(desc(punktedurchschnitt)) %>%
+  ungroup()
+```
+
+# Meiste Punkte
+
+```{r}
+meiste_punkte <- gemeinsames_auftreten %>%
+  filter(abstimmungsgelegenheiten >= 3) %>% # Mindestens drei Abstimmungsgelegenheiten, um seltenere Verteilungen nicht überzubewerten
+  arrange(desc(punktedurchschnitt)) %>%
+  group_by(from_country_key) %>% 
+  filter(row_number() == 1L)
+
+write_csv(meiste_punkte, "meiste_punkte.csv")
+```
+
+# Platzierungen
+
+```{r include=FALSE}
+esc_finale <- read_csv("esc_history/esc_history_table_mainevent.csv")
+```
+
+```{r}
+platzierungen <- esc_finale %>% 
+  filter(event == 3) %>%
+  filter(year %in% c(1975:2018)) %>%
+  arrange(desc(rank)) %>%
+  group_by(year) %>%
+  filter(row_number() == 1L) %>%
+  select(year, rank) %>%
+  arrange(year) %>%
+  rename(letzter_platz = rank)
+```
+
+# Türkei: Top & Bottom 5
+
+```{r}
+platzierungen_TR <- esc_finale %>% 
+  filter(event == 3) %>%
+  filter(year %in% c(1975:2018)) %>%
+  filter(country == "TR") %>%
+  select(year, rank)
+  
+TR <- full_join(platzierungen_TR, platzierungen, by = "year") %>%
+  filter(rank != "NA") %>%
+  mutate(bottom_5 = letzter_platz - 4)
+  
+top_bottom_5_TR <- TR %>%
+  mutate(
+    type = case_when(
+      rank <= 5 ~ "Top 5",
+      rank >= bottom_5 ~ "Bottom 5",
+      TRUE ~ "Mittelfeld"
+    )
+  ) %>%
+  add_count() %>%
+  rename(teilnahmen = n) %>%
+  group_by(type) %>%
+  add_count() %>%
+  distinct(type, teilnahmen, n) %>%
+  mutate(anteil = round(n/teilnahmen*100)) %>%
+  select(type, anteil)
+
+write_csv(top_bottom_5_TR, "top_bottom_5_TR.csv")
+```
+
+# Aserbaidschan: Top & Bottom 5
+
+```{r}
+platzierungen_AZ <- esc_finale %>% 
+  filter(event == 3) %>%
+  filter(year %in% c(1975:2018)) %>%
+  filter(country == "AZ") %>%
+  select(year, rank)
+  
+AZ <- full_join(platzierungen_AZ, platzierungen, by = "year") %>%
+  filter(rank != "NA") %>%
+  mutate(bottom_5 = letzter_platz - 4)
+  
+top_bottom_5_AZ <- AZ %>%
+  mutate(
+    type = case_when(
+      rank <= 5 ~ "Top 5",
+      rank >= bottom_5 ~ "Bottom 5",
+      TRUE ~ "Mittelfeld"
+    )
+  ) %>%
+  add_count() %>%
+  rename(teilnahmen = n) %>%
+  group_by(type) %>%
+  add_count() %>%
+  distinct(type, teilnahmen, n) %>%
+  mutate(anteil = round(n/teilnahmen*100)) %>%
+  select(type, anteil)
+
+write_csv(top_bottom_5_AZ, "top_bottom_5_AZ.csv")
+```
