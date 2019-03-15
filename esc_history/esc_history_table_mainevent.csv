@@ -1,0 +1,1538 @@
+﻿id;year;country;event;artist;title;points_total;rank
+1;1957;B;3;Bobbejan Schoepen;Straatdeuntje;5;8
+2;1957;LUX;3;Dani√®le Dupr√©;Tant de peine;8;4
+3;1957;UK;3;Patricia Bredin;All;6;7
+4;1957;I;3;Nunzio Gallo;Corde della mia chitarra;7;6
+5;1957;AUT;3;Bob Martin;Wohin, kleines Pony?;3;10
+6;1957;NL;3;Corry Brokken;Net als toen;31;1
+7;1957;D;3;Margot Hielscher;Telefon, Telefon;8;4
+8;1957;F;3;Paule Desjardins;La belle amour;17;2
+9;1957;DK;3;Birthe Wilke & Gustav Winckler;Skibet skal selje i nat;10;3
+10;1957;CH;3;Lys Assia;L'enfant que j'√©tais;5;8
+11;1958;I;3;Domenico Modugno;Nel blu dipinto di blu;13;3
+12;1958;NL;3;Corry Brokken;Heel de wereld;1;9
+13;1958;F;3;Andr√© Claveau;Dors, mon amour;27;1
+14;1958;LUX;3;Solange Berry;Un grand amour;1;9
+15;1958;S;3;Alice Babs;Lilla stj√§rna;10;4
+16;1958;DK;3;Raquel Rastenni;Jeg rev et blad du af min dagbog;3;8
+17;1958;B;3;Fud Leclerc;Ma petite chatte;8;5
+18;1958;D;3;Margot Hielscher;F√ºr zwei Groschen Musik;5;7
+19;1958;AUT;3;Liane Augustin;Die ganze Welt braucht Liebe;8;5
+20;1958;CH;3;Lys Assia;Giorgio;24;2
+21;1959;F;3;Jean Philippe;Oui, oui, oui, oui;15;3
+22;1959;DK;3;Birthe Wilke;Uh, jeg ville √∏nske jeg var dig;12;5
+23;1959;I;3;Domenico Modugno;Piove;9;6
+24;1959;MC;3;Jacques Pills;Mon ami Pierrot;1;11
+25;1959;NL;3;Teddy Scholten;Een beetje;21;1
+26;1959;D;3;Alice & Ellen Kessler;Heute abend woll'n wir tanzen geh'n;5;8
+27;1959;S;3;Brita Borg;Augustin;4;9
+28;1959;CH;3;Christa Williams;Irgendwoher;14;4
+29;1959;AUT;3;Ferry Graf;Der k. u. k. Kalypso aus Wien;4;9
+30;1959;UK;3;Pearl Carr & Teddy Johnson;Sing Little Birdie;16;2
+31;1959;B;3;Bob Benny;Hou toch von mij;9;6
+32;1960;UK;3;Bryan Johnson;Looking High, High, High;25;2
+33;1960;S;3;Siw Malmkvist;Alla andra f√•r varann;4;10
+34;1960;LUX;3;Camillo Felgen;So laang we's du do bast;1;13
+35;1960;DK;3;Katy B√∏dtger;Det var en yndig tid;4;10
+36;1960;B;3;Fud Leclerc;Mon amour pour toi;9;6
+37;1960;N;3;Nora Brockstedt;Voi-voi;11;4
+38;1960;AUT;3;Harry Winter;Du hast mich so fasziniert;6;7
+39;1960;MC;3;Fran√ßois Deguelt;Ce soir l√†;15;3
+40;1960;CH;3;Anita Traversi;Cielo e terra;5;8
+41;1960;NL;3;Rudi Carrell;Wat een geluk;2;12
+42;1960;D;3;Wyn Hoop;Bonne nuit, ma ch√©rie;11;4
+43;1960;I;3;Renato Rascel;Romantica;5;8
+44;1960;F;3;Jacqueline Boyer;Tom Pillibi;32;1
+45;1961;E;3;Conchita Bautista;Estando contigo;8;9
+46;1961;MC;3;Colette Der√©al;Allons, allons les enfants;6;10
+47;1961;AUT;3;Jimmy Makulis;Sehnsucht;1;15
+48;1961;SF;3;Laila Kinnunen;Valoa ikkunassa;6;10
+49;1961;YUG;3;Ljiljana Petrovic;Neke davne zvezde;9;8
+50;1961;NL;3;Greetje Kauffeld;Wat een dag;6;10
+51;1961;S;3;Lill-Babs;April, April;2;14
+52;1961;D;3;Lale Andersen;Einmal sehen wir uns wieder;3;13
+53;1961;F;3;Jean-Paul Mauric;Printemps (Avril carillonne);13;4
+54;1961;CH;3;Franca di Rienzo;Nous aurons demain;16;3
+55;1961;B;3;Bob Benny;September, gouden ross;1;15
+56;1961;N;3;Nora Brockstedt;Sommer i Palma;10;7
+57;1961;DK;3;Dario Campeotto;Angelique;12;5
+58;1961;LUX;3;Jean Claude Pascal;Nous les amoureux;31;1
+59;1961;UK;3;The Allisons;Are You Sure?;24;2
+60;1961;I;3;Betty Curtis;Al die l√†;12;5
+61;1962;SF;3;Marion Rung;Tipi-Tii;4;7
+62;1962;B;3;Fud Leclerc;Ton nom;0;13
+63;1962;E;3;Victor Balaguer;Ll√°mame;0;13
+64;1962;AUT;3;Eleonore Schwarz;Nur in der Wiener Luft;0;13
+65;1962;DK;3;Ellen Winther;Viggevise;2;10
+66;1962;S;3;Inger Berggren;Sol och v√•r;4;7
+67;1962;D;3;Conny Froboess;Zwei kleine Italiener;9;6
+68;1962;NL;3;De Spelbrekers;Katinka;0;13
+69;1962;F;3;Isabelle Aubret;Un premier amour;26;1
+70;1962;N;3;Inger Jacobsen;Kom sol, kom regn;2;10
+71;1962;CH;3;Jean Philippe;Le retour;2;10
+72;1962;YUG;3;Lola Novakovic;Ne pali svetla u sumrak;10;4
+73;1962;UK;3;Ronnie Carroll;Ring-A-Ding Girl;10;4
+74;1962;LUX;3;Camillo Felgen;Petit bonhomme;11;3
+75;1962;I;3;Claudio Villa;Addio, addio;3;9
+76;1962;MC;3;Fran√ßois Deguelt;Dis rien;13;2
+77;1963;UK;3;Ronnie Carroll;Say Wonderful Things;28;4
+78;1963;NL;3;Annie Palmen;Speeldoos;0;13
+79;1963;D;3;Heidi Br√ºhl;Marcel;5;9
+80;1963;AUT;3;Carmela Corren;Vielleicht geschieht ein Wunder;16;7
+81;1963;N;3;Anita Thallaug;Solthverv;0;13
+82;1963;I;3;Emilio Pericoli;Uno per tutte;37;3
+83;1963;SF;3;Laila Halme;Muistojeni laulu;0;13
+84;1963;DK;3;Grethe & J√∏rgen Ingmann;Dansevise;42;1
+85;1963;YUG;3;Vice Vukov;Brodovi;3;11
+86;1963;CH;3;Esther Ofarim;T'en vas pas;40;2
+87;1963;F;3;Alain Barri√®re;Elle √©tait si jolie;25;5
+88;1963;E;3;Jos√© Guardiola;Algo prodigioso;2;12
+89;1963;S;3;Monica Zetterlund;En g√•ng in Stockholm;0;12
+90;1963;B;3;Jacques Raymond;Waarom;4;10
+91;1963;MC;3;Fran√ßoise Hardy;L'amour s'en va;25;5
+92;1963;LUX;3;Nana Mouskouri;√Ä force de prier;13;8
+93;1964;LUX;3;Hugues Aufray;D√®s que le printemps revient;14;4
+94;1964;NL;3;Anneke Gr√∂nloh;Jij bent mijn leven;2;10
+95;1964;N;3;Arne Bendiksen;Spiral;6;8
+96;1964;DK;3;Bj√∏rn Tidmand;Sangen om dig;4;9
+97;1964;SF;3;Lasse M√•rtenson;Laiskotellen;9;7
+98;1964;AUT;3;Udo J√ºrgens;Warum nur, warum?;11;6
+99;1964;F;3;Rachel;Le chant de Mallory;14;4
+100;1964;UK;3;Matt Monro;I Love The Little Things;17;2
+101;1964;D;3;Nora Nova;Man gew√∂hnt sich so schnell an das  Sch√∂ne;0;13
+102;1964;MC;3;Romuald;O√π sont-elles pass√©es ?;15;3
+103;1964;POR;3;Antonio Calvario;Ora√ß√£o;0;13
+104;1964;I;3;Gigliola Cinquetti;Non ho l'eta (per amarti);49;1
+105;1964;YUG;3;Sabahudin Kurt;Zivot je sklopio krug;0;13
+106;1964;CH;3;Anita Traversi;I miei pensieri;0;13
+107;1964;B;3;Roberto Cogio;Pr√®s de ma riviere;2;10
+108;1964;E;3;Nelly, Tim & Toni (Los TNT);Caracola;1;12
+109;1965;NL;3;Conny von den Bos;T is genoeg;5;11
+110;1965;UK;3;Kathy Kirby;I belong;26;2
+111;1965;E;3;Conchita Bautista;Que bueno, que bueno;0;15
+112;1965;IRL;3;Butch Moore;I'm Walking The Streets In The Rain;11;6
+113;1965;D;3;Ulla Wiesner;Paradies, wo bist du?;0;15
+114;1965;AUT;3;Udo J√ºrgens;Sag ihr, ich lass' Sie gr√º√üen;16;4
+115;1965;N;3;Kirsti Sparboe;Karusell;1;13
+116;1965;B;3;Lize Marke;Als het weer lente is;0;15
+117;1965;MC;3;Marjorie No√´l;Va dire √† l'amour;7;9
+118;1965;S;3;Ingvar Wixell;Annorst√§des vals (Absent friend);6;10
+119;1965;F;3;Guy Mardel;N'avoue jamais;22;3
+120;1965;POR;3;Simone de Oliveira;Sol de inverno;1;13
+121;1965;I;3;Bobby Solo;Se piagni, se ridi;15;5
+122;1965;DK;3;Birgit Br√ºel;For din skyld;10;7
+123;1965;LUX;3;France Gall;Poup√©e de cire, poup√©e de son;32;1
+124;1965;SF;3;Viktor Klimenko;Aurinko laskee l√§nteen;0;15
+125;1965;YUG;3;Vice Vukov;Ceznja;2;12
+126;1965;CH;3;Yovanna;Non, √† jamais sans toi;8;8
+127;1966;D;3;Margot Eskens;Die Zeiger der Uhr;7;10
+128;1966;DK;3;Ulla Pia;Stop, mens legen er go;4;14
+129;1966;B;3;Tonia;Un peu de poivre, un peu de sel;14;4
+130;1966;LUX;3;Mich√®le Torr;Ce soir je t'attendais;7;10
+131;1966;YUG;3;Berta Ambroz;Brez besed;9;7
+132;1966;N;3;√Öse Kleveland;Intet er nytt under solen;15;3
+133;1966;SF;3;Ann Christine;Playboy;7;10
+134;1966;POR;3;Madalena Igl√©sias;Ele e ela;6;13
+135;1966;AUT;3;Udo J√ºrgens;Merci Ch√©rie;31;1
+136;1966;S;3;Lill Lindfors & Svante Thuresson;Nygammal vals;16;2
+137;1966;E;3;Raphael;Yo soy aquel;9;7
+138;1966;CH;3;Madeleine Pascal;Ne vois-tu pas?;12;6
+139;1966;MC;3;Tereza;Bien plus fort;0;17
+140;1966;I;3;Domenico Modugno;Dio, come ti amo;0;17
+141;1966;F;3;Dominique Walter;Chez nous;1;16
+142;1966;NL;3;Milly Scott;Fernando en Philippo;2;15
+143;1966;IRL;3;Dickie Rock;Come Back To Stay;14;4
+144;1966;UK;3;Kenneth McKellar;A Man Without Love;8;9
+145;1967;NL;3;Th√©r√®se Steinmetz;Ring-Dinge-Ding;2;14
+146;1967;LUX;3;Vicky Leandros;L'amour est bleu;17;4
+147;1967;AUT;3;Peter Horton;Warum es hunderttausend Sterne gibt;2;14
+148;1967;F;3;No√´lle Cordier;Il doit faire beau l√†-bas;20;3
+149;1967;POR;3;Eduardo Nascimento;O vento mudou;3;12
+150;1967;CH;3;G√©raldine;Quel coeur vas-tu briser?;0;17
+151;1967;S;3;√ñsten Warnerbring;Som en dr√∂m;7;8
+152;1967;SF;3;Fredi;Varjoon-suojaan;3;12
+153;1967;D;3;Inge Br√ºck;Anouschka;7;8
+154;1967;B;3;Louis Neefs;Ik heb zorgen;8;7
+155;1967;UK;3;Sandie Shaw;Puppet On A String;47;1
+156;1967;E;3;Raphael;Hablemos des amor;9;6
+157;1967;N;3;Kirsti Sparboe;Dukkemann;2;14
+158;1967;MC;3;Minouche Barelli;Boum badaboum;10;5
+159;1967;YUG;3;Lado Leskovar;Vse roze sveta;7;8
+160;1967;I;3;Claudio Villa;Non andare pi√π lontano;4;11
+161;1967;IRL;3;Sean Dunphy;If I Could Choose;22;2
+162;1968;POR;3;Carlos Mendes;Ver√£o;5;11
+163;1968;NL;3;Ronnie Tober;Morgen;1;16
+164;1968;B;3;Claude Lombard;Quand tu reviendras;8;7
+165;1968;AUT;3;Karel Gott;Tausend Fenster;2;13
+166;1968;LUX;3;Chris Baldo & Sophie Garel;Nous vivrons d'amour;5;11
+167;1968;CH;3;Gianni Mascolo;Guardando il sole;2;13
+168;1968;MC;3;Line & Willy;√Ä chacun sa chanson;8;7
+169;1968;S;3;Claes-G√∂ran Hederstr√∂m;Det b√∂rjar verka k√§rlek, banne mej;15;5
+170;1968;SF;3;Kristina Hautala;Kun kello k√§y;1;16
+171;1968;F;3;Isabelle Aubret;La source;20;3
+172;1968;I;3;Sergio Endrigo;Marianne;7;10
+173;1968;UK;3;Cliff Richard;Congratulations;28;2
+174;1968;N;3;Odd B√∏rre;Stress;2;13
+175;1968;IRL;3;Pat McGeegan;Chance Of A Lifetime;18;4
+176;1968;E;3;Massiel;La La La;29;1
+177;1968;D;3;Wencke Myhre;Ein Hoch der Liebe;11;6
+178;1968;YUG;3;Luci Kapurso & Hamo Hajdarhodzic;Jedan dan;8;7
+179;1969;YUG;3;Ivan & 3M;Pozdrav svijetu;5;13
+180;1969;LUX;3;Romuald;Catherine;7;11
+181;1969;E;3;Salom√©;Vivo cantando;18;1
+182;1969;MC;3;Jean-Jacques;Maman;11;6
+183;1969;IRL;3;Muriel Day;The Wages Of Love;10;7
+184;1969;I;3;Iva Zanicchi;Due grosse lacrime bianche;5;13
+185;1969;UK;3;Lulu;Boom Bang-A-Bang;18;1
+186;1969;NL;3;Lenny Kuhr;De troubadour;18;1
+187;1969;S;3;Tommy K√∂rberg;Judy, min v√§n;8;9
+188;1969;B;3;Louis Neefs;Jennifer Jennings;10;7
+189;1969;CH;3;Paola;Bonjour, bonjour;13;5
+190;1969;N;3;Kirsti Sparboe;Oj, oj, oj, s√• glad jeg skal bli;1;16
+191;1969;D;3;Siw Malmkvist;Primaballerina;8;9
+192;1969;F;3;Frida Boccara;Un jour, un enfant;18;1
+193;1969;POR;3;Simone de Oliveira;Desfolhada portuguesa;4;15
+194;1969;SF;3;Jarkko & Laura;Kuin silloin ennen;6;12
+195;1970;NL;3;The Hearts Of Soul;Waterman;7;7
+196;1970;CH;3;Henri D√®s;Retour;8;4
+197;1970;I;3;Gianni Morandi;Occhi di ragazza;5;8
+198;1970;YUG;3;Eva Srsen;Pridi, dala ti bom cvet;4;11
+199;1970;B;3;Jean Vall√©e;Viens l'oublier;5;8
+200;1970;F;3;Guy Bonnet;Marie Blanche;8;4
+201;1970;UK;3;Mary Hopkin;Knock, Knock Who's There;26;2
+202;1970;LUX;3;David Alexandre Winter;Je suis tomb√© du ciel;0;12
+203;1970;E;3;Julio Iglesias;Gwendolyne;8;4
+204;1970;MC;3;Dominique Dussault;Marl√®ne;5;8
+205;1970;D;3;Katja Ebstein;Wunder gibt es immer wieder;12;3
+206;1970;IRL;3;Dana;All Kinds Of Everything;32;1
+207;1971;AUT;3;Marianne Mendt;Musik;66;16
+208;1971;MAL;3;Joe Grech;Marija L-Maltija;52;18
+209;1971;MC;3;S√©verine;Un banc, un arbre, une rue;128;1
+210;1971;CH;3;Peter, Sue & Marc;Les illusions de nos vingt ans;78;12
+211;1971;D;3;Katja Ebstein;Diese Welt;100;3
+212;1971;E;3;Karina;En un mundo nuevo;116;2
+213;1971;F;3;Serge Lama;Un jardin sur la terre;82;10
+214;1971;LUX;3;Monique Melsen;Pomme, Pomme, Pomme;70;13
+215;1971;UK;3;Clodagh Rodgers;Jack In The Box;98;4
+216;1971;B;3;Lily Castel & Jacques Raymond;Goeie morgen, morgen;68;14
+217;1971;I;3;Massimo Ranieri;L'amore √© un attimo;91;5
+218;1971;S;3;Family Four;Vita vidder;85;6
+219;1971;IRL;3;Angela Farrell;One Day Love;79;11
+220;1971;NL;3;Saskia & Serge;Tijd;85;6
+221;1971;POR;3;Tonicha;Menina;83;9
+222;1971;YUG;3;Kruno Slabinac;Tvoj djecak je tu≈æan;68;14
+223;1971;SF;3;Markku Aro & Koivistolaiset;Tie uuteen p√§iv√§√§n;84;8
+224;1971;N;3;Hanne Krogh;Lykken er ...;65;17
+225;1972;D;3;Mary Roos;Nur die Liebe l√§sst uns leben;107;3
+226;1972;F;3;Betty Mars;Com√© Com√©die;81;11
+227;1972;IRL;3;Sandie Jones;Ceol an Ghr√°;72;15
+228;1972;E;3;Jaime Morey;Amanece;83;10
+229;1972;UK;3;The New Seekers;Beg, Steal Or Borrow;114;2
+230;1972;N;3;Grethe Kausland & Benny Borg;Sm√•ting;73;14
+231;1972;POR;3;Carlos Mendes;A festa da vida;90;7
+232;1972;CH;3;V√©ronique Muller;C'est la chanson de mon amour;88;8
+233;1972;MAL;3;Helen & Joseph;L-Imhabba;48;18
+234;1972;SF;3;P√§ivi Paunu & Kim Floor;Muistathan;78;12
+235;1972;AUT;3;Milestones;Falter im Wind;100;5
+236;1972;I;3;Nicola di Bari;I giorni dell'arcobaleno;92;6
+237;1972;YUG;3;Tereza;Musika i ti;87;9
+238;1972;S;3;Family Four;H√§rliga sommardag;75;13
+239;1972;MC;3;Anne-Marie Godard & Peter McLane;Comme on s'aime;65;16
+240;1972;B;3;Serge & Christine Ghisoland;√Ä la folie ou pas du tout;55;17
+241;1972;LUX;3;Vicky Leandros;Apr√®s toi;128;1
+242;1972;NL;3;Sandra & Andres;Als het om de liefde gaat;106;4
+243;1973;SF;3;Marion Rung;Tom Tom Tom;93;6
+244;1973;B;3;Nicole & Hugo;Baby, Baby;58;17
+245;1973;POR;3;Fernando Tordo;Tourada;80;10
+246;1973;D;3;Gitte;Junger Tag;85;8
+247;1973;N;3;Bendik Singers;It's Just A Game;89;7
+248;1973;MC;3;Marie;Un train qui part;85;8
+249;1973;E;3;Mocedades;Eres tu;125;2
+250;1973;CH;3;Patrick Juvet;Je vais me marier, Marie;79;12
+251;1973;YUG;3;Zdravko Colic;Gori vatra;65;15
+252;1973;I;3;Massimo Ranieri;Chi sar√†;74;13
+253;1973;LUX;3;Anne-Marie David;Tu te reconna√Ætras;129;1
+254;1973;S;3;The Nova;You Are Summer, You Never Tell Me No;94;5
+255;1973;NL;3;Ben Cramer;De oude muzikant;69;14
+256;1973;IRL;3;Maxi;Do I Dream?;80;10
+257;1973;UK;3;Cliff Richard;Power To All Our Friends;123;3
+258;1973;F;3;Martine Clemenceau;Sans toi;65;15
+259;1973;ISR;3;Ilanit;Ey sham;97;4
+260;1974;SF;3;Carita;Keep Me Warm;4;13
+261;1974;UK;3;Olivia Newton-John;Long Live Love;14;4
+262;1974;E;3;Peret;Canta y se feliz;10;9
+263;1974;N;3;Anne Karine;The First Day Of Love;3;14
+264;1974;GR;3;Marinella;Krassi, thalassa ke t'agori mou;7;11
+265;1974;ISR;3;Poogy;Natati la Khaiai;11;7
+266;1974;YUG;3;Korni Grupa;Moja Generacija;6;12
+267;1974;S;3;Abba;Waterloo;24;1
+268;1974;LUX;3;Ireen Sheer;Bye Bye, I Love You;14;4
+269;1974;MC;3;Romuald;Celui qui reste et celui quee s'en va;14;4
+270;1974;B;3;Jacques Hustin;Fleur de libert√©;10;9
+271;1974;NL;3;Mouth & MacNeal;I See A Star;15;3
+272;1974;IRL;3;Tina;Cross Your Heart;11;7
+273;1974;D;3;Cindy & Bert;Die Sommermelodie;3;14
+274;1974;CH;3;Piera Martell;Mein Ruf nach dir;3;14
+275;1974;POR;3;Paulo de Carvalho;E depois do adeus;3;14
+276;1974;I;3;Gigliola Cinquetti;Si;18;2
+277;1975;NL;3;Teach-In;Ding-A-Dong;152;1
+278;1975;IRL;3;The Swarbriggs;That's What Friends Are For;68;9
+279;1975;F;3;Nicole Rieu;Et bonjour √† toi l'artiste;91;4
+280;1975;D;3;Joy Fleming;Ein Lied kann eine Br√ºcke sein;15;17
+281;1975;LUX;3;G√©raldine;Toi;84;5
+282;1975;N;3;Ellen Nikolaysen;Touch My Life (With Summer);11;18
+283;1975;CH;3;Simone Drexel;Mikado;77;6
+284;1975;YUG;3;Pepel in Kri;Dan ljubezni;22;13
+285;1975;UK;3;The Shadows;Let Me Be The One;138;2
+286;1975;MAL;3;Renato;Singing This Song;32;12
+287;1975;B;3;Ann Christy;Gelukkig zijn;17;15
+288;1975;ISR;3;Shlomo Artzi;At ve' ani;40;11
+289;1975;TR;3;Semiha Yanki;Seninle bir dakika;3;19
+290;1975;MC;3;Sophie;Une chanson c'est une lettre;22;13
+291;1975;SF;3;Pihasoittajat;Old-Man Fiddle;74;7
+292;1975;POR;3;Duarde Mendes;Madrugada;16;16
+293;1975;E;3;Sergio & Estibaliz;Tu volveras;53;10
+294;1975;S;3;Lars Berghagen;Jennie, Jennie;72;8
+295;1975;I;3;Wess & Dori Ghezzi;Era;115;3
+296;1976;UK;3;Brotherhood Of Man;Save Your Kisses For Me;164;1
+297;1976;CH;3;Peter, Sue & Marc;Djambo Djambo;91;4
+298;1976;D;3;The Les Humphries Singers;Sing Sang Song;12;15
+299;1976;ISR;3;Chocolate Menta Mastik;Emor shalom;77;6
+300;1976;LUX;3;J√ºrgen Marcus;Chansons pour ceux qui s'aiment;17;14
+301;1976;B;3;Pierre Rapsat;Judy et Cie;68;8
+302;1976;IRL;3;Red Vincent Hurley;When;54;10
+303;1976;NL;3;Sandra Reemer;The Party's Over Now;56;9
+304;1976;N;3;Anne Karine;Mata Hari;7;18
+305;1976;GR;3;Mariza Koch;Panaghia mou, panaghia mou;20;13
+306;1976;SF;3;Fredi and Friends;Pump Pump;44;11
+307;1976;E;3;Braulio;Sobran las palabras;11;16
+308;1976;I;3;Al Bano & R. Power;Noi lo riviremo di nuovo;69;7
+309;1976;AUT;3;Waterloo & Robinson;My Little World;80;5
+310;1976;POR;3;Carlos do Carmo;Uma flor de verde pinho;24;12
+311;1976;MC;3;Mary Cristy;Toi, la musique et moi;93;3
+312;1976;F;3;Catherine Ferry;1, 2, 3;147;2
+313;1976;YUG;3;Ambasadori;Ne mogu skriti svoj bol;10;17
+314;1977;IRL;3;The Swarbriggs;It's Nice To Be In Love Again;119;3
+315;1977;MC;3;Mich√®le Torr;Une petite fran√ßaise;96;4
+316;1977;NL;3;Heddy Lester;De mallemolen;35;12
+317;1977;AUT;3;Schmetterlinge;Boom Boom Boomerang;11;17
+318;1977;N;3;Anita Skorgan;Casanova;18;14
+319;1977;D;3;Silver Convention;Telegram;55;8
+320;1977;LUX;3;Anne Marie B.;Fr√®re Jacques;17;16
+321;1977;POR;3;Os Amigos;Portugal no cora√ß√£o;18;14
+322;1977;UK;3;Lynsey de Paul & Mike Moran;Rock Bottom;121;2
+323;1977;GR;3;Pascalis, Marianna et al.;Mathema solfege;92;5
+324;1977;ISR;3;Ilanit;Ahava he shir le shnaim;49;11
+325;1977;CH;3;Pepe Lienhard Band;Swiss Lady;71;6
+326;1977;S;3;Forbes;Beatles;2;18
+327;1977;E;3;Micky;Ense√±ame a cantar;52;9
+328;1977;I;3;Mia Martini;Libera;33;13
+329;1977;SF;3;Monica Aspelund;Lapponia;50;10
+330;1977;B;3;Dream Express;A Million In 1, 2, 3;69;7
+331;1977;F;3;Marie Myriam;L'oiseau et l'enfant;136;1
+332;1978;IRL;3;Colm C.T. Wilkinson;Born To Sing;86;5
+333;1978;N;3;Jahn Teigen;Mil etter mil;0;20
+334;1978;I;3;Ricchi & Poveri;Questo amore;53;12
+335;1978;SF;3;Seija Simola;Anna rakkaudelle tilaisuus;2;18
+336;1978;POR;3;Gemini;Dai li dou;5;17
+337;1978;F;3;Jo√´l Pr√©vost;Il y aura toujours des violons;119;3
+338;1978;E;3;Jos√© V√©lez;Bailemos un vals;65;9
+339;1978;UK;3;CoCo;Bad Old Days;61;11
+340;1978;CH;3;Carole Vinci;Vivre;65;9
+341;1978;B;3;Jean Vall√©e;L'amour √ßa fait chanter la vie;125;2
+342;1978;NL;3;Harmony;T'is O.K.;37;13
+343;1978;TR;3;Nazar;Sevince;2;18
+344;1978;D;3;Ireen Sheer;Feuer;84;6
+345;1978;MC;3;Caline & Olivier Toussaint;Les jardins de Monaco;107;4
+346;1978;GR;3;Tania Tsanaklidou;Charlie Chaplin;66;8
+347;1978;DK;3;Mabel;Boom-Boom;13;16
+348;1978;LUX;3;Baccara;Parlez-vous fran√ßais?;73;7
+349;1978;ISR;3;Izhar Cohen & The Alpha-Beta;A-ba-ni-bi;157;1
+350;1978;AUT;3;Springtime;Mrs. Caroline Robinson;14;15
+351;1978;S;3;Bj√∂rn Skifs;Det blir alltid v√§rre fram√•t natten;26;14
+352;1979;POR;3;Manuela Bravo;Sobe, sobe bal√£o sobe;64;9
+353;1979;I;3;Matia Bazar;Raggio di luna;27;15
+354;1979;DK;3;Tommy Seebach;Disco Tango;76;6
+355;1979;IRL;3;Cathal Dunne;Happy Man;80;5
+356;1979;SF;3;Katri Helena;Katson sineen taivaan;38;14
+357;1979;MC;3;Laurent Vaguener;Notre vie c'est la musique;12;16
+358;1979;GR;3;Elpida;Socrates;69;8
+359;1979;CH;3;Peter, Sue & Marc und Pfuri, Gorps & Kniri;Tr√∂dler / Co.;60;10
+360;1979;D;3;Dschinghis Khan;Dschinghis Khan;86;4
+361;1979;ISR;3;Gali Atari mit Milk & Honey;Hallelujah;125;1
+362;1979;F;3;Anne-Marie David;Je suis l'enfant-soleil;106;3
+363;1979;B;3;Micha Marah;Hey Nana;5;18
+364;1979;LUX;3;Jeane Manson;J'ai d√©j√† vu √ßa dans tes yeux;44;13
+365;1979;NL;3;Xandra;Colorado;51;12
+366;1979;S;3;Ted G√§rdestad;Satellit;8;17
+367;1979;N;3;Anita Skorgan;Oliver;57;11
+368;1979;UK;3;Black Lace;Mary Ann;73;7
+369;1979;AUT;3;Christina Simon;Heute in Jerusalem;5;18
+370;1979;E;3;Betty Missiego;Su canci√≥n 16;116;2
+371;1980;AUT;3;Blue Danube;Du bist Musik;64;8
+372;1980;TR;3;Ajda Pekkan;Petr'oil;23;15
+373;1980;GR;3;Anna Vissi;Auto-Stop;30;13
+374;1980;LUX;3;Sophie & Magaly;Papa Pingouin;56;9
+375;1980;MAR;3;Samira;Bitakat hob;7;18
+376;1980;I;3;Alan Sorrenti;Non so che darei;87;6
+377;1980;DK;3;Bamses Venner;T√¶nker altid p√• dig;25;14
+378;1980;S;3;Tomas Ledin;Just nu;47;10
+379;1980;CH;3;Paola;Cin√©ma;104;4
+380;1980;SF;3;Vesa-Matti Loiri;Huilumies;6;19
+381;1980;N;3;Sverre Kjelsberg & Mattis H√¶tta;S√°miid √Üdnan;15;16
+382;1980;D;3;Katja Ebstein;Theater;128;2
+383;1980;UK;3;Prima Donna;Love Enough For Two;106;3
+384;1980;POR;3;Jos√© Cid;Um grande, grande amor;71;7
+385;1980;NL;3;Maggie MacNeal;Amsterdam;93;5
+386;1980;F;3;Profil;H√©, h√©, M'sieurs Dames;45;11
+387;1980;IRL;3;Johnny Logan;What's Another Year;143;1
+388;1980;E;3;Trigo Limpio;Quedate esta noche;38;12
+389;1980;B;3;Telex;Euro-Vision;14;17
+390;1981;AUT;3;Marty Brem;Wenn du da bist;20;17
+391;1981;TR;3;Modern Folk Trio & Ayseg√ºl;D√∂nme dolap;9;18
+392;1981;D;3;Lena Valaitis;Johnny Blue;132;2
+393;1981;LUX;3;Jean Claude Pascal;C'est peut-√™tre pas l'Am√©rique;41;11
+394;1981;ISR;3;Habibi;Layla;56;7
+395;1981;DK;3;Tommy Seebach & Debbie Cameron;Kr√òller eller ej;41;11
+396;1981;YUG;3;Seid Memic-Vajta;Leyla;35;15
+397;1981;SF;3;Riki Sorsa;Reggae O.K.;27;16
+398;1981;F;3;Jean Gabilou;Humanahum;125;3
+399;1981;E;3;Bacchelli;Y s√≥lo t√∫;38;14
+400;1981;NL;3;Linda Williams;Het is een wonder;51;9
+401;1981;IRL;3;Sheeba;Horoscopes;105;5
+402;1981;N;3;Finn Kalvik;Aldri i livet;0;20
+403;1981;UK;3;Bucks Fizz;Making Your Mind Up;136;1
+404;1981;POR;3;Carlos Pai√£o;Playback;9;18
+405;1981;B;3;Emly Starr;Samson;40;13
+406;1981;GR;3;Yiannis Dimitras;Feggari kalokerino;55;8
+407;1981;ZYP;3;Island;Monica;69;6
+408;1981;CH;3;Peter, Sue & Marc;Io senza te;121;4
+409;1981;S;3;Bj√∂rn Skifs;F√•ngad i en dr√∂m;50;10
+410;1982;POR;3;Doce;Bem Bom;32;13
+411;1982;LUX;3;Svetlana;Cours apr√®s le temps;78;6
+412;1982;N;3;Jahn Teigen & Anita Skorgan;Adieu;40;12
+413;1982;UK;3;Bardo;One Step Further;76;7
+414;1982;TR;3;Neco;Hani;20;15
+415;1982;SF;3;Kojo;Nuku pommiin;0;18
+416;1982;CH;3;Arlette Zola;Amour on t'aime;97;3
+417;1982;ZYP;3;Anna Vissi;Mono i agapi;85;5
+418;1982;S;3;Chips;Dag efter dag;67;8
+419;1982;AUT;3;Mess;Sonntag;57;9
+420;1982;B;3;Stella;Si tu aimes ma musique;96;4
+421;1982;E;3;Lucia;El;52;10
+422;1982;DK;3;Brixx;Video Video;5;17
+423;1982;YUG;3;Aska;Halo Halo;21;14
+424;1982;ISR;3;Avi Toledano;Hora;100;2
+425;1982;NL;3;Bill van Dijk;Jij en ik;8;16
+426;1982;IRL;3;The Duskeys;Here Today, Gone Tomorrow;49;11
+427;1982;D;3;Nicole;Ein bisschen Frieden;161;1
+428;1983;F;3;Guy Bonnet;Vivre;56;8
+429;1983;N;3;Jahn Teigen;Do Re Mi;53;9
+430;1983;UK;3;Sweet Dreams;I'm Never Giving Up;79;6
+431;1983;S;3;Carola;Fr√§mling;126;3
+432;1983;I;3;Riccardo Fogli;Per Lucia;41;11
+433;1983;TR;3;Cetin Alp & The Short Wave;Opera;0;19
+434;1983;E;3;Remedios Amaya;Quien maneja mi barca?;0;19
+435;1983;CH;3;Mariella Farr√©;Io cosi non ci sto;28;15
+436;1983;SF;3;Ami Aspelund;Fantasiaa;41;11
+437;1983;GR;3;Christie;Mou les;32;14
+438;1983;NL;3;Bernadette;Sing Me A Song;66;7
+439;1983;YUG;3;Daniel;Dzuli;125;4
+440;1983;ZYP;3;Stavros & Constantina;I agapi akoma zi;26;16
+441;1983;D;3;Hoffmann & Hoffmann;R√ºcksicht;94;5
+442;1983;DK;3;Gry;Kloden drejer;16;17
+443;1983;ISR;3;Ofra Haza;Hi;136;2
+444;1983;POR;3;Armando Gama;Esta balada que te dou;33;13
+445;1983;AUT;3;Westend;Hurricane;53;9
+446;1983;B;3;Pas de Deux;Rendez-vous;13;18
+447;1983;LUX;3;Corinne Herm√®s;Si la vie est cadeau;142;1
+448;1984;S;3;Herreys;Diggi-Loo Diggy-Ley;145;1
+449;1984;LUX;3;Sophie Carle;100 % d'amour;39;10
+450;1984;F;3;Annick Thoumazeau;Autant d'amourex que d'√©toiles;61;8
+451;1984;E;3;Bravo;Lady, Lady;106;3
+452;1984;N;3;Dollie de Luxe;Lenge leve livet;29;17
+453;1984;UK;3;Belle & The Devotions;Love Games;63;7
+454;1984;ZYP;3;Andy Paul;Anna Mari-Elena;31;15
+455;1984;B;3;Jacques Zegers;Avanti la vie;70;5
+456;1984;IRL;3;Linda Martin;Terminal 3;137;2
+457;1984;DK;3;Hot Eyes;Det' lige det;101;4
+458;1984;NL;3;Maribelle;Ik hou van jou;34;13
+459;1984;YUG;3;Vlado & Izolda;Ciao amore;26;18
+460;1984;AUT;3;Anita;Einfach weg;5;19
+461;1984;D;3;Mary Roos;Aufrecht geh'n;34;13
+462;1984;TR;3;Bes Yil √ñnce On Yil Sonra;Halay;37;12
+463;1984;SF;3;Kirka;Hengaillaan;46;9
+464;1984;CH;3;Rainy Day;Welche Farbe hat der Sonnenschein;30;16
+465;1984;I;3;Alice & Franco Battiato;I treni di Tozeur;70;5
+466;1984;POR;3;Maria Guinot;Sil√™ncio e tanta gente;38;11
+467;1985;IRL;3;Maria Christian;Wait Until The Weekend Comes;91;6
+468;1985;SF;3;Sonja Lumme;El√§k√∂√∂n el√§m√§;58;9
+469;1985;ZYP;3;Lia Vissi;To katalava arga;15;16
+470;1985;DK;3;Hot Eyes;Sku' du sp√∏rg' fra no'en;41;11
+471;1985;E;3;Paloma San Basilio;La fiesta termin√≥;36;14
+472;1985;F;3;Roger Bens;Femme dans ses r√™ves aussi;56;10
+473;1985;TR;3;MF√ñ;Didai didai dai asik oldum;36;14
+474;1985;B;3;Linda Lepomme;Laat me nu gaan;7;19
+475;1985;POR;3;Adelaide;Penso em ti, eu sei;9;18
+476;1985;D;3;Wind;F√ºr alle;105;2
+477;1985;ISR;3;Izhar Cohen;Ol√©, Ol√©;93;5
+478;1985;I;3;Al Bano & Romina Power;Magic, Oh Magic;78;7
+479;1985;N;3;Bobbysocks;La det swinge;123;1
+480;1985;UK;3;Vikki;Love Is ...;100;4
+481;1985;CH;3;Mariella Farr√© & Pino Gasparini;Piano, Piano;39;12
+482;1985;S;3;Kikki Danielsson;Bra vibrationer;103;3
+483;1985;AUT;3;Gary Lux;Kinder dieser Welt;60;8
+484;1985;LUX;3;Ireen Sheer, Chris Roberts, Margo ...;Children, Kinder, Enfants;37;13
+485;1985;GR;3;Takis Biniaris;Miazoume;15;16
+486;1986;LUX;3;Sherisse Laurence;L'amour de ma vie;117;3
+487;1986;YUG;3;Doris;Zeljo moja;49;11
+488;1986;F;3;Cocktail Chic;Europ√©ennes;13;17
+489;1986;N;3;Ketil Stokkan;Romeo;44;12
+490;1986;UK;3;Ryder;Runner In The Night;72;7
+491;1986;ISL;3;Icy;Gledibankinn;19;16
+492;1986;NL;3;Frizzle Sizzle;Alles heeft ritme;40;13
+493;1986;TR;3;Klips & Onlar;Halley;53;9
+494;1986;E;3;Cadillac;Valentino;51;10
+495;1986;CH;3;Daniela Simons;Pas pour moi;140;2
+496;1986;ISR;3;Moti Giladi & Sarai Tzuriel;Yavoh yom;7;19
+497;1986;IRL;3;Luv Bug;You Can Count On Me;96;4
+498;1986;B;3;Sandra Kim;J'aime la vie;176;1
+499;1986;D;3;Ingrid Peters;√úber die Br√ºcke geh'n;62;8
+500;1986;ZYP;3;Elpida;Tora zo;4;20
+501;1986;AUT;3;Timna Brauer;Die Zeit ist einsam;12;18
+502;1986;S;3;Lasse Holm & M.T√∂rnell;E' de' det h√§r du kallar k√§rlek?;78;5
+503;1986;DK;3;Trax;Du er fuld af l√∏gn;77;6
+504;1986;SF;3;Kari Kuivalainen;P√§iv√§ kahden ihmisen;22;15
+505;1986;POR;3;Dora;N√£o sejas mau p'ra mim;28;14
+506;1987;N;3;Kate;Mitt liv;65;9
+507;1987;ISR;3;Lazy Bums (Datner & Kushnir);Shir habatlanim;73;8
+508;1987;AUT;3;Gary Lux;Nur noch Gef√ºhl;8;20
+509;1987;ISL;3;Halla Margret;H√¶gt og hlj;28;16
+510;1987;B;3;Liliane Saint-Pierre;Soldiers Of Love;56;11
+511;1987;S;3;Lotta Engberg;Boogaloo;50;12
+512;1987;I;3;Umberto Tozzi & Raf;Gente di mare;103;3
+513;1987;POR;3;Nevada;Neste barco √† vela;15;18
+514;1987;E;3;Patricia Kraus;No estas solo;10;19
+515;1987;TR;3;Seyyal Taner & Grup Locomotif;Sarkim sevgi √ºst√ºne;0;22
+516;1987;GR;3;Bang!;Stop;64;10
+517;1987;NL;3;Marcha;Rechtop in de wind;83;5
+518;1987;LUX;3;Plastic Bertrand;Amour, amour;4;21
+519;1987;UK;3;Rikki;Only The Light;47;13
+520;1987;F;3;Christine Minier;Les mots d'amour n'ont pas de dimanche;44;14
+521;1987;D;3;Wind;Lass' die Sonne in dein Herz;141;2
+522;1987;ZYP;3;Alexia;Spro-mavro;80;7
+523;1987;SF;3;Vicky Rosti;Sata salamaa;32;15
+524;1987;DK;3;Anne Cathrine Herdorf & Bandjo;En lille melodie;83;5
+525;1987;IRL;3;Johnny Logan;Hold Me Now;172;1
+526;1987;YUG;3;Novi Fosili;Ja sam za ples;92;4
+527;1987;CH;3;Carol Rich;Moiti√©-moiti√©;26;17
+528;1988;ISL;3;Beathoven;Sokrates;20;16
+529;1988;S;3;Tommy K√∂rberg;Stad i ljus;52;12
+530;1988;SF;3;Boulevard;Nauravat silm√§t muistetaan;3;20
+531;1988;UK;3;Scott Fitzgerald;Go;136;2
+532;1988;TR;3;MF√ñ;Sufi;37;15
+533;1988;E;3;La Decada Prodigiosa;Made in Spain (La chica que yo quiero);58;11
+534;1988;NL;3;Gerard Joling;Shangri-La;70;9
+535;1988;ISR;3;Yardena Arazi;Ben Adam;85;7
+536;1988;CH;3;C√©line Dion;Ne partez pas sans moi;137;1
+537;1988;IRL;3;Jump The Gun;Take Him Home;79;8
+538;1988;D;3;Maxi & Chris Garden;Lied f√ºr einen Freund;48;14
+539;1988;AUT;3;Wilfried;Lisa, Mona Lisa;0;21
+540;1988;DK;3;Hot Eyes;Ka' du se hva' jeg sa' ?;92;3
+541;1988;GR;3;Fryda Afroditi;Kloun;10;17
+542;1988;N;3;Karoline Kr√ºger;For v√•r jord;88;5
+543;1988;B;3;Reynaert;Laissez briller le soleil;5;18
+544;1988;LUX;3;Lara Fabian;Croire;90;4
+545;1988;I;3;Luca Barbarossa;Ti scrivo;52;12
+546;1988;F;3;G√©rard Lenorman;Chanteur de charme;64;10
+547;1988;POR;3;Dora;Voltarei;5;18
+548;1988;YUG;3;Srebrna Krila (Silver Wings);Mangup;87;6
+549;1989;I;3;Anna Oxa & Fausto Leali;Avrei voluto;56;9
+550;1989;ISR;3;Gili & Galit;Derech ha'melech;50;12
+551;1989;IRL;3;Kiev Connolly & The Missing Passengers;The Real Me;21;18
+552;1989;NL;3;Justine Pelmelay;Blijf zoals je bent;45;15
+553;1989;TR;3;Pan;Bana Bana;5;21
+554;1989;B;3;Ingeborg;Door de wind;13;19
+555;1989;UK;3;Live Report;Why Do I Always Get It Wrong?;130;2
+556;1989;N;3;Britt Synn√∏ve;Venners n√¶rhet;30;17
+557;1989;POR;3;Da Vinci;Conquistado;39;16
+558;1989;S;3;Tommy Nilsson;En dag;110;4
+559;1989;LUX;3;Park Caf√©;Monsieur;8;20
+560;1989;DK;3;Birthe Kj√¶r;Vi maler byen r√∏d;111;3
+561;1989;AUT;3;Thomas Forstner;Nur ein Lied;97;5
+562;1989;SF;3;Anneli Saaristo;La dolce vita;76;7
+563;1989;F;3;Nathalie P√¢que;J'ai vol√© la vie;60;8
+564;1989;E;3;Nina;Nacida para amar;88;6
+565;1989;ZYP;3;Yiannis Savvidakis & Fani Polymeri;Apopse as vrethoume;51;11
+566;1989;CH;3;Furbaz;Viver senza tei;47;13
+567;1989;GR;3;Mariana Efstratiou;To diko sou asteri;56;9
+568;1989;ISL;3;Daniel;Pad sem enginn s√©r;0;22
+569;1989;D;3;Nino de Angelo;Flieger;46;14
+570;1989;YUG;3;Riva;Rock Me;137;1
+571;1990;E;3;Az√∫car Moreno;Bandido;96;5
+572;1990;GR;3;Christos Callow;Horis skopo;11;19
+573;1990;B;3;Philippe Lafontaine;Mac√©domienne;46;12
+574;1990;TR;3;Kayahan;G√∂zlerinin hapsindeyim;21;17
+575;1990;NL;3;Maywood;Ik will alles met je deln;25;15
+576;1990;LUX;3;C√©line Carzo;Quand je te r√™ve;38;13
+577;1990;UK;3;Emma;Give A Little Love Back To The World;87;6
+578;1990;ISL;3;Stj√≥rnin;Eitt lag enn;124;4
+579;1990;N;3;Ketil Stokkan;Brandenburger Tor;8;21
+580;1990;ISR;3;Rita;Shara barchovot;16;18
+581;1990;DK;3;Lonnie Devantier;Hallo-Hallo;64;8
+582;1990;CH;3;Egon Egemann;Musik klingt in die Welt hinaus;51;11
+583;1990;D;3;Chris Kempers & Daniel Kovac;Frei zu leben;60;9
+584;1990;F;3;Jo√´lle Ursull;White & Black Blues;132;2
+585;1990;YUG;3;Tajci;Hajde da ludujemo;81;7
+586;1990;POR;3;Nucha;H√° sempre algu√©m;9;20
+587;1990;IRL;3;Liam Reilly;Somewhere In Europe;132;2
+588;1990;S;3;Edin √Ödahl;Som en vind;24;16
+589;1990;I;3;Toto Cutugno;Insieme 1992;149;1
+590;1990;AUT;3;Simone;Keine Mauern mehr;58;10
+591;1990;ZYP;3;Anastazio;Milas poli;36;14
+592;1990;SF;3;Beat;Fri?;8;21
+593;1991;YUG;3;Baby Doll;Brazil;1;21
+594;1991;ISL;3;Stefan & Eyfi;Nina;26;15
+595;1991;MAL;3;Georgina & Paul Giordimaina;Could It Be;106;6
+596;1991;GR;3;Sofia Vossou;I anixi;36;13
+597;1991;CH;3;Sandra Sim√≥;Canzone per te;118;5
+598;1991;AUT;3;Thomas Forstner;Venedig im Regen;0;22
+599;1991;LUX;3;Sarah Bray;Un baiser vol√©;29;14
+600;1991;S;3;Carola;"F&aring;ngad av en stormvind";146;1
+601;1991;F;3;Amina;Le dernier qui a parl√©...;146;2
+602;1991;TR;3;Izel Celik√∂z, Can Ugurluer, Reyhan Kara√ßa;Iki dakika;44;12
+603;1991;IRL;3;Kim Jackson;Could It Be That I'm In Love?;47;10
+604;1991;POR;3;Dulce;Lusitana Paix√£o;62;8
+605;1991;DK;3;Anders Frandsen;Lige der hvor hjertet st√•r;8;19
+606;1991;N;3;Just 4 Fun;Mrs. Thompson;14;17
+607;1991;ISR;3;Duo Datz;Kan;139;3
+608;1991;SF;3;Kaija;Hullu y√∂;6;20
+609;1991;D;3;Atlantis 2000;Dieser Traum darf niemals sterben;10;18
+610;1991;B;3;Clousseau;Geef het op;23;16
+611;1991;E;3;Sergio Dalma;Bailar pegados;119;4
+612;1991;UK;3;Samantha Janus;A Message To Your Heart;47;10
+613;1991;ZYP;3;Elena Patroklou;S.O.S.;60;9
+614;1991;I;3;Peppino di Capri;Comme √® ddoce 'o mare;89;7
+615;1992;E;3;Serafin;Todo esto es la m√∫sica;37;14
+616;1992;B;3;Morgane;Nous, on veut des violons;11;20
+617;1992;ISR;3;Dafna;Ze rak sport;85;6
+618;1992;TR;3;Aylin Vatankos;Yaz bitti;17;19
+619;1992;GR;3;Cleopatra;Olou tou kosmou i elpida;94;5
+620;1992;F;3;Kali;Mont√© la rivi√®;73;8
+621;1992;S;3;Christer Bj√∂rkman;I morgon √§r en annan dag;9;22
+622;1992;POR;3;Dina;Amor d'√°gua fresca;26;17
+623;1992;ZYP;3;Evridiki;Teriazoume;57;11
+624;1992;MAL;3;Mary Spiteri;Little Child;123;3
+625;1992;ISL;3;Heart 2 Heart;Nei eda j√°;80;7
+626;1992;SF;3;Pave;Yamma-Yamma;4;23
+627;1992;CH;3;Daisy Auvray;Mister Music Man;32;15
+628;1992;LUX;3;Marion Welter;Sou fr√§i;10;21
+629;1992;AUT;3;Tony Wegas;Zusammen geh'n;63;10
+630;1992;UK;3;Michael Ball;One Step Out Of Time;139;2
+631;1992;IRL;3;Linda Martin;Why Me?;155;1
+632;1992;DK;3;Kenny & Lotte;Alt det som ingen ser;47;12
+633;1992;I;3;Mia Martini;Rapsodia;111;4
+634;1992;YUG;3;Extra Nena;Ljubim te pesmama;44;13
+635;1992;N;3;Merethe Tr√òan;Visjoner;23;18
+636;1992;D;3;Wind;Tr√§ume sind f√ºr alle da;27;16
+637;1992;NL;3;Humphrey Campbell;Wijs me de weg;67;9
+638;1993;I;3;Enrico Ruggeri;Sole d'Europa;45;12
+639;1993;TR;3;Burak Aydos;Esmer yarim;10;21
+640;1993;D;3;M√ºnchener Freiheit;Viel zu weit;18;18
+641;1993;CH;3;Annie Cotton;Moi, tout simplement;148;3
+642;1993;DK;3;Tommy Seebach Band;Under stjernerne p√• himlen;9;22
+643;1993;GR;3;Keti Garbi;Ellada, chora tou fotos;64;9
+644;1993;B;3;Barbara;Iemand als jij;3;25
+645;1993;MAL;3;William Mangion;This Time;69;8
+646;1993;ISL;3;Inga;P√° veistu svarid;42;13
+647;1993;AUT;3;Tony Wegas;Maria Magdalena;32;14
+648;1993;POR;3;Anabela;A cidade at√© ser dia;60;10
+649;1993;F;3;Patrick Fiori;Mama Corsica;121;4
+650;1993;S;3;Arvingarna;Eloise;89;7
+651;1993;IRL;3;Niamh Kavanagh;In Your Eyes;187;1
+652;1993;LUX;3;Modern Times;Donne-moi une chance;11;20
+653;1993;SLO;3;1 x Band;Tih de≈æeven dan;9;22
+654;1993;SF;3;Katri Helena;Tule luo;20;17
+655;1993;BIH;3;Fazla;Sva bol svijeta;27;16
+656;1993;UK;3;Sonia;Better The Devil You Know;164;2
+657;1993;NL;3;Ruth Jacott;Vrede;92;6
+658;1993;CRO;3;Put;Don't Ever Cry;31;15
+659;1993;E;3;Eva Santamaria;Hombres;58;11
+660;1993;ZYP;3;Zymboulakis & Van Beke;Mi stamatas;17;19
+661;1993;ISR;3;Lahakat Shiru;Shiru;4;24
+662;1993;N;3;Silje Vige;Alle mine tankar;120;5
+663;1994;S;3;Marie Bergman & Roger Pontare;Stj√§rnorna;48;13
+664;1994;SF;3;CatCat;Bye Bye Baby;11;22
+665;1994;IRL;3;Paul Harrington & C. McGettigan;Rock'N'Roll Kids;226;1
+666;1994;ZYP;3;Evridiki;Eimai anthropos ki ego;51;11
+667;1994;ISL;3;Sigga;N√¶tur;49;12
+668;1994;UK;3;Frances Ruffelle;We Will Be Free (Lonely Symphony);63;10
+669;1994;CRO;3;Toni Cetinski;Nek, ti bude ljubav sva;27;16
+670;1994;POR;3;Sara Tavares;Chamar a m√∫sica;73;8
+671;1994;CH;3;Duilio;Sto pregando;15;19
+672;1994;EST;3;Silvi Vrait;Nagu merelaine2;2;24
+673;1994;ROM;3;Dan Bittman;Dincolo de nori;14;21
+674;1994;MAL;3;Chris & Moira;More Than Love;97;5
+675;1994;NL;3;Willeke Alberti;Waar is de zon;4;23
+676;1994;D;3;Mekado;Wir geben 'ne Party;128;3
+677;1994;SLK;3;Martin Durinda & Tublatanka;Nekonecna piesen;15;19
+678;1994;LIT;3;Ovidijus Vy≈°niauskas;Lopi≈°ine mylimai;0;25
+679;1994;N;3;Elisabeth Andreassen & Jan Werner Danielsen;Duett;76;6
+680;1994;BIH;3;Alma & Dejan;Ostani kraj mene;39;15
+681;1994;GR;3;Costas Bigalis & The Sea Lovers;To trehantiri (Diri-Diri);44;14
+682;1994;AUT;3;Petra Frey;F√ºr den Frieden der Welt;19;17
+683;1994;E;3;Alejandro Abad;Ella no es ella;17;18
+684;1994;H;3;Friderika;Kinek mondjam el v√©tkeimet;122;4
+685;1994;RUS;3;Youddiph;Vechni stranik;70;9
+686;1994;PL;3;Edyta Gorniak;To nie ja;166;2
+687;1994;F;3;Nina Morato;Je suis un vrai gar√ßon;74;7
+688;1995;PL;3;Justyna Steczkowska;Sama;15;18
+689;1995;IRL;3;Eddie Friel;Dreamin';44;14
+690;1995;D;3;Stone & Stone;Verliebt in dich;1;23
+691;1995;BIH;3;Davor;Dvadeset prvi vijek;14;19
+692;1995;N;3;Secret Garden;Nocturne;148;1
+693;1995;RUS;3;Phillipe Kirkorow;Kobelnaya dlya vulkana;17;17
+694;1995;ISL;3;Bo Halldorsson;N√∫na;31;15
+695;1995;AUT;3;Stella Jones;Die Welt dreht sich verkehrt;67;13
+696;1995;E;3;Anabel Conde;Vuelve conmigo;119;2
+697;1995;TR;3;Arzu Ece;Sev;21;16
+698;1995;CRO;3;Magazin & Lidija;Nostalgija;91;6
+699;1995;F;3;Nathalie Santamaria;Il me donne rendez-vous;94;4
+700;1995;H;3;Csaba Szigeti;√öj n√©v a r√©gi h√°z fal√°n;3;22
+701;1995;B;3;Etherlinck;La voix est libre;8;20
+702;1995;UK;3;Love City Groove;Love City Groove;76;10
+703;1995;POR;3;T√≥ Cruz;Baunilha e chocolate;5;21
+704;1995;ZYP;3;Alexandros Panayi;Sti fotia;79;9
+705;1995;S;3;Jan Johansen;Se p√• mig;100;3
+706;1995;DK;3;Aud Wilken;Frau Mols til Skagen;92;5
+707;1995;SLO;3;Darja Svajger;Prisluhni mi;84;7
+708;1995;ISR;3;Liora;Amen;81;8
+709;1995;MAL;3;Mike Spiteri;Keep Me In Mind;76;10
+710;1995;GR;3;Elina Konstantopoulou;Pia prossefchi;68;12
+711;1996;TR;3;Sebnem Paker;Besinci mavsim;57;12
+712;1996;UK;3;Gina G.;Ooh Aah ... Just A Little Bit;77;8
+713;1996;E;3;Antonio Carbonell;Ay, qu√© deseo!;17;20
+714;1996;POR;3;L√∫cia Moniz;O meu cora√ß√£o n√£o tem cor;92;6
+715;1996;ZYP;3;Constantinos;Mono yia mas;72;9
+716;1996;MAL;3;Miriam Christine;In A Woman's Heart;68;10
+717;1996;CRO;3;Maja Blagdan;Sveta ljubav;98;4
+718;1996;AUT;3;George Nussbaumer;Weil's dir guat got;68;10
+719;1996;CH;3;Kathy Leander;Mon coeur l'aime;22;16
+720;1996;GR;3;Marianna Efstratiou;Emis forame to himona anixiatika;36;14
+721;1996;EST;3;Marja-Liis Ilus & Ivo Linna;Kaelakee h√§√§l;94;5
+722;1996;N;3;Elisabeth Andreassen;I evighet;114;2
+723;1996;F;3;Dan Ar Braz & L'H√©ritage des Celtes;Diwanit bugale;18;19
+724;1996;SLO;3;Regina;Dan najlepsih sanj;16;21
+725;1996;NL;3;Maxine & Franklin Brown;De eerste keer;78;7
+726;1996;B;3;Lisa del Bo;Liefde is een kaartspel;22;16
+727;1996;IRL;3;Eimear Quinn;The Voice;162;1
+728;1996;SF;3;Jasmine;Niin kaunis on taivas;9;23
+729;1996;ISL;3;Anna Mj√∂ll;Sj√∫bid√∫;51;13
+730;1996;PL;3;Kasia Kowalska;Chce znac sw√≥ grzech;31;15
+731;1996;BIH;3;Amila;Za nasu ljubav;13;22
+732;1996;SLK;3;Marcel Palonder;Kym nas mas;19;18
+733;1996;S;3;One More Time;Den vilda;100;3
+734;1997;ZYP;3;Hara & Andreas Konstantinou;Mana mou;98;5
+735;1997;TR;3;Sebnem Paker;Dinle;121;3
+736;1997;N;3;Tor Endresen;San Francsico;0;24
+737;1997;AUT;3;Bettina Soriat;One Step;12;21
+738;1997;IRL;3;Marc Roberts;Mysterious Woman;157;2
+739;1997;SLO;3;Tanja Ribic;Zbudi se;60;10
+740;1997;CH;3;Barbara Berta;Dentro di me;5;22
+741;1997;NL;3;Mrs. Einstein;Niemand heeft nog tijd;5;22
+742;1997;I;3;Jalisse;Fiumi di parole;114;4
+743;1997;E;3;Marcos Llunas;Sin rencor;96;6
+744;1997;D;3;Bianca Shomburg;Zeit;22;18
+745;1997;PL;3;Anna Maria Jopek;Ale jesterm;54;11
+746;1997;EST;3;Maarja-Liis Ilus;Keelatud maa;82;8
+747;1997;BIH;3;Alma & Dejan;Goodbye;22;18
+748;1997;POR;3;C√©lia Lawson;Antes do adeus;0;24
+749;1997;S;3;Blond;Bara hon √§lskar mig;36;14
+750;1997;GR;3;Marianna Zorba;Horepse;39;12
+751;1997;MAL;3;Debbie Scerri;Let Me Fly;66;9
+752;1997;H;3;V.I.P.;Mi√©rt kell, hogy elmenj?;39;12
+753;1997;RUS;3;Alla Pugatschowa;Primadonna;33;15
+754;1997;DK;3;K√∏lig Kaj;Stemmen i mit liv;25;16
+755;1997;F;3;Fanny;Sentiments songes;95;7
+756;1997;CRO;3;ENI;Probudi me;24;17
+757;1997;UK;3;Katrina & The Waves;Love Shine A Light;227;1
+758;1997;ISL;3;Paul Oscar;Minn hinsti dans;18;20
+759;1998;CRO;3;Danijela;Neka mi ne svane;131;5
+760;1998;GR;3;Thalassa;Mia krifi evesthisia;12;19
+761;1998;F;3;Marie Line;O√π aller;3;24
+762;1998;E;3;Mikel Herzog;Qu√© voy a hacer sin ti?;21;16
+763;1998;CH;3;Gunvor;Lass' ihn;0;25
+764;1998;SLK;3;Katar√≠na Hasprov√°;Modlitba;8;21
+765;1998;PL;3;Sixteen;To takie proste;9;20
+766;1998;ISR;3;Dana International;Diva;172;1
+767;1998;D;3;Guildo Horn;Guildo hat euch lieb;86;7
+768;1998;MAL;3;Chiara;The One That I Love;165;3
+769;1998;H;3;Charlie;A holnap m√°r nem lesz szomoru;4;23
+770;1998;SLO;3;Vili Resnik;Naj bogovi slisijo;17;17
+771;1998;IRL;3;Dawn Martin;Is Always Over Now;64;9
+772;1998;POR;3;Alma Lusa;Se eu te pudesse abra√ßar;36;13
+773;1998;ROM;3;Malina Olinescu;Eu cred;6;22
+774;1998;UK;3;Imaani;Where Are You;166;2
+775;1998;ZYP;3;Michael Hajiyanni;Genesis;37;11
+776;1998;NL;3;Edsilia;Hemel en aarde;160;4
+777;1998;S;3;Jill Johnson;K√§rleken √§r;53;10
+778;1998;B;3;M√©lanie Cohl;Dis oui;122;6
+779;1998;SF;3;Edea;Aava;22;15
+780;1998;N;3;Lars Fredriksen;Alltid sommer;79;8
+781;1998;EST;3;Koit Toome;Mere lapsed;36;12
+782;1998;TR;3;T√ºzmen;Unutamazsin;25;14
+783;1998;MAZ;3;Vlado Janevski;Ne zori, zoro;16;18
+784;1999;LIT;3;Aist√©;Strazdaz;13;20
+785;1999;B;3;Vanessa Chinitor;Like The Wind;38;12
+786;1999;E;3;Lydia;No quiero escuchar;1;23
+787;1999;CRO;3;Doris;Marija Magdalena;118;4
+788;1999;UK;3;Precious;Say It Again;38;13
+789;1999;SLO;3;Darja Svajger;For A Thousand Years;50;11
+790;1999;TR;3;Tugba √ñnal;D√∂n artik;21;16
+791;1999;N;3;Van Eijk;Living My Life Without You;35;14
+792;1999;DK;3;Michael Teschl & Trine Jepsen;This Time I Mean It;71;8
+793;1999;F;3;Nayah;Je veux donner ma voix;14;19
+794;1999;NL;3;Marlayne;One Good Reason;71;9
+795;1999;PL;3;Mietek Szcz√©sniak;Przytul mnie mocno;17;18
+796;1999;ISL;3;Selma;All Out Of Luck;146;2
+797;1999;ZYP;3;Marlain;Tha'ne erotas;2;22
+798;1999;S;3;Charlotte Nilsson;Take Me To Your Heaven;163;1
+799;1999;POR;3;Rui Bandeira;Como tudo come√ßou;12;21
+800;1999;IRL;3;The Mullans;When You Need Me;18;17
+801;1999;AUT;3;Bobbie Singer;Reflection;65;10
+802;1999;ISR;3;Eden;Happy Birthday (Yom hol√©det);93;5
+803;1999;MAL;3;Times Three;Believe 'N Peace;32;15
+804;1999;D;3;S√ºrpriz;Reise nach Jerusalem (Kud√ºs'e seyahat);140;3
+805;1999;BIH;3;Dino & Beatrice;Putnici;86;7
+806;1999;EST;3;Evelin Samuel & Camille;Diamond Of Night;90;6
+807;2000;DK;3;The Olsen Brothers;Fly On The Wings Of Love;195;1
+808;2000;RUS;3;Alsou;Solo;155;2
+809;2000;LET;3;Brainstorm;My Star;136;3
+810;2000;EST;3;Ines;Once In A Lifetime;98;4
+811;2000;D;3;Stefan Raab;Wadde hadde dudde da?;96;5
+812;2000;IRL;3;Eamonn Toal;Millennium Of Love;92;6
+813;2000;S;3;Roger Pontare;N√§r Vindarna Viskar Mitt Namn;88;7
+814;2000;MAL;3;Claudette Pace;Desire;73;8
+815;2000;CRO;3;Goran Karan;Kas Zaspu Andeli;70;9
+816;2000;TR;3;Pinar Ayhan & S.O.S. Band;Yorgunum Anla;59;10
+817;2000;N;3;Charmed;My Heart Goes Boom;57;11
+818;2000;ISL;3;Einar Agust Vidisson und Telma Agustsdottir;Tell Me;45;12
+819;2000;NL;3;Linda Wagenmakers;No Goodbyes;40;13
+820;2000;AUT;3;The Rounder Girls;All To You;34;14
+821;2000;MAZ;3;XXL;100% Te Ljubam;29;15
+822;2000;UK;3;Nicki French;Don't Play That Song Again;28;16
+823;2000;ROM;3;Taxi;Luna;25;17
+824;2000;E;3;Serafin Zubiri;Colgado De Un Sue√±o;18;18
+825;2000;SF;3;Nina Astr√∂m;A Little Bit;18;19
+826;2000;CH;3;Jane Bogaert;La Vita Cos'√®?;14;20
+827;2000;ZYP;3;Alexandros Panayi und Christina Argyri;Nomiza;8;21
+828;2000;ISR;3;Ping Pong;Shir Sameach;7;22
+829;2000;F;3;Sofia Mestari;On Aura Le Ciel;5;23
+830;2000;B;3;Nathalie Sorce;Envie Ve Vivre;2;24
+831;2001;NL;3;Michelle;Out On My Own;16;18
+832;2001;ISL;3;Two tricky;Angel;3;22
+833;2001;BIH;3;Nino Prses;Hano;29;14
+834;2001;N;3;Haldor L√¶gereid;On My Own;3;22
+835;2001;ISR;3;Tal Sondak;Ein Davar (Nevermind);25;16
+836;2001;RUS;3;Mumiy Troll;Lady Alpine Blue;37;12
+837;2001;S;3;Friends;Listen To Your Heartbeat;100;5
+838;2001;LIT;3;SKAMP;You Got Style;35;13
+839;2001;LET;3;Arnis Mednis;Too much;16;18
+840;2001;CRO;3;Vanna;Strings Of My Heart;42;10
+841;2001;POR;3;MTM;S√≥ sei ser feliz assim (The Only Way);18;17
+842;2001;E;3;David Civera;Dile que la quiero (Tell Her That I Love Her);76;6
+843;2001;IRL;3;Gary O'Shaughnessy;Without Your Love;6;21
+844;2001;F;3;Natasha Saint-Pier;Je n'ai Que Mon √Çme;142;4
+845;2001;TR;3;Sedat Y√ºce;Sevgiliye Son (Good-Bye My Love);41;11
+846;2001;UK;3;Lindsay D;No Dream Impossible;28;15
+847;2001;SLO;3;Nusa Derenda;Energy;70;7
+848;2001;PL;3;Piasek;2 Long;11;20
+849;2001;D;3;Michelle ;Wer Liebe lebt (Who Lives For Love);66;8
+850;2001;EST;3;Tanel Padar, Dave Benton und 2XL;Everybody;198;1
+851;2001;MAL;3;Fabrizio Faniello;Another Summer Night;48;9
+852;2001;GR;3;Antique;Die For You;147;3
+853;2001;DK;3;Rollo & King;Never Ever Let You Go;177;2
+854;2002;ZYP;3;One;Gimme;85;6
+855;2002;UK;3;Jessica Garlick;Come Back;111;3
+856;2002;AUT;3;Manuel Ortega;Say A Word;26;18
+857;2002;GR;3;Michalis Rakintzis;S.A.G.A.P.O;27;17
+858;2002;E;3;Rosa;Europe's Living A Celebration;81;7
+859;2002;CRO;3;Vesna Pisarovic;Everything I Want;44;11
+860;2002;RUS;3;Prime Minister;Northern Girl;55;10
+861;2002;EST;3;Sahl√©ne;Runaway;111;3
+862;2002;MAZ;3;Karolina;Od Nas Zavisi;25;19
+863;2002;ISR;3;Sarit Hadad;Light A Candle;37;12
+864;2002;CH;3;Francine Jordi;Dans Le Jardin De Mon √Çme;15;22
+865;2002;S;3;Afro-dite;Never Let It Go;72;8
+866;2002;SF;3;Laura;Addicted To You;24;20
+867;2002;DK;3;Malene W.Mortensen;Tell Me Who You Are;7;24
+868;2002;BIH;3;Maja;Na Jastuku Za Dvoje;33;13
+869;2002;B;3;Sergio & The Ladies;Sister;33;13
+870;2002;F;3;Sandrine Francois;Il Faut Du Temps;104;5
+871;2002;D;3;Corinna May;I Can't Live Without Music;17;21
+872;2002;TR;3;Buket Bengisu & Grup Safir;Leylaklar Soldu Kalbinde;29;16
+873;2002;MAL;3;Ira Losco;7th Wonder;164;2
+874;2002;ROM;3;Monica Anghel, Marcel Pavel;Tell Me Why;71;9
+875;2002;SLO;3;Sestre;Samo Ljubezen;33;13
+876;2002;LET;3;Marie N;I Wanna;176;1
+877;2002;LIT;3;Aivaras Stepukonis;Happy You;12;23
+878;2003;TR;3;Sertab Erener;Everyway That I Can;167;1
+879;2003;B;3;Urban Trad;Sanomi;165;2
+880;2003;RUS;3;t.A.T.u.;Ne Ver, Ne Bojsia, Ne Prosi;164;3
+881;2003;N;3;Jostein Hasselgard;Im Not Afraid To Move On;123;4
+882;2003;S;3;Fame;Give Me Your Love;107;5
+883;2003;AUT;3;Alf Poier;Weil der Mensch zaehlt;101;6
+884;2003;PL;3;Ich Troje;Keine Grenzen - Zadynch Granic;90;7
+885;2003;E;3;Beth;Dime;81;8
+886;2003;ISL;3;Birgitta;Open Your Heart;81;8
+887;2003;ROM;3;Nicola;Don't Break My Heart;73;10
+888;2003;IRL;3;Mickey Harte;We've Got The World;53;11
+889;2003;D;3;Lou;Let's Get Happy;53;12
+890;2003;NL;3;Esther Hart;One More Night;45;13
+891;2003;UKR;3;Oleksandr;Hasta La Vista;30;14
+892;2003;CRO;3;Claudia;Vise Nisam Tyoja;29;15
+893;2003;BIH;3;Mija Martina;Ne Brini (Could It Be);27;16
+894;2003;GR;3;Mando;Never Let You Go;25;17
+895;2003;F;3;Louisa Baileche;Monts Et Merveilles;19;18
+896;2003;ISR;3;Lior Narkis;Words For Love;17;19
+897;2003;ZYP;3;Stelios Konstantas;Feeling Alive;15;20
+898;2003;EST;3;Ruffus;Eighties Coming Back;14;21
+899;2003;POR;3;Rita Guerra;Deixa-me Sonhar;13;22
+900;2003;SLO;3;Karmen;Nanana;7;23
+901;2003;LET;3;F.L.Y.;Hello From Mars;5;24
+902;2003;MAL;3;Lynn Chircop;To Dream Again;4;25
+903;2003;UK;3;JEMINI;Cry Baby;0;26
+904;1956;CH;3;Lys Assia;Refrain;1;1
+905;2004;UKR;3;Ruslana Lyzhichko;Wild Dances;280;1
+906;2004;SER;3;Zeljko Joksimovic;Lane Moje;263;2
+907;2004;GR;3;Sakis Rouvas;Shake It;252;3
+908;2004;TR;3;Athena;For Real;195;4
+909;2004;ZYP;3;Lisa Andreas;Stronger Every Minute;170;5
+910;2004;S;3;Lena Philipsson;It Hurts;170;5
+911;2004;ALB;3;Anjeza Shahini;The Image Of You;106;7
+912;2004;D;3;Max;Can't Wait Until Tonight;93;8
+913;2004;BIH;3;Deen;In The Disco;91;9
+914;2004;E;3;Ramon;Para Llernarme De Ti;87;10
+915;2004;RUS;3;Julia Savicheva;Believe Me;67;11
+916;2004;MAL;3;Julie & Ludwig;On Again...Off Again;50;12
+917;2004;CRO;3;Ivan Mikulic;You Are The Only One;50;12
+918;2004;MAZ;3;Tose Proeski;Life;47;14
+919;2004;F;3;Jonatan Cerrada;A Chaque Pas;40;15
+920;2004;UK;3;James Fox;Hold On To Your Love;29;16
+921;2004;PL;3;Blue Cafe;Love Song;27;17
+922;2004;ROM;3;Sanda Ladosi;I Admit;18;18
+923;2004;ISL;3;J√≥nsi;Heaven;16;19
+924;2004;NL;3;Re-Union;Without You;11;20
+925;2004;AUT;3;Tie-Break;Du Bist;9;21
+926;2004;B;3;Xandee;1 Life;7;22
+927;2004;IRL;3;Chris Doran;If My World Stops Turning;7;22
+928;2004;N;3;Knut Anders Soerum;High;3;24
+929;2005;GR;3;Helena Paparizou;My Number One;230;1
+930;2005;ROM;3;Luminita Anghel & Sistem;Let Me Try;158;3
+931;2005;MAL;3;Chiara;Angel;192;2
+932;2005;ISR;3;Shiri Maymon;Hasheket Shenish'ar;154;4
+933;2005;LET;3;Walters & Kazha;The War Is Not Over;153;5
+934;2005;MD;3;Zdob si Zdub;Boonika Bate Toba;148;6
+935;2005;SER;3;No Name;Zauvijek Moja;137;7
+936;2005;N;3;Wig Wam;In My Dreams;125;9
+937;2005;CH;3;Vanilla Ninja;Cool Vibes;128;8
+938;2005;DK;3;Jakob Sveistrup;T√¶nder P√• Dig;125;10
+939;2005;CRO;3;Novkovic feat. Lano Members;Vukovi Umiro Sami;115;11
+940;2005;H;3;Nox;Forogj Vilag;97;12
+941;2005;TR;3;G√ºlseren;Rimi Rimi Ley;92;13
+942;2005;BIH;3;Feminnem;Call Me;79;14
+943;2005;RUS;3;Natalia Podolskaya;Nobody Hurt No One;57;15
+944;2005;ALB;3;Ledina Celo;Tomorrow I Go;53;16
+945;2005;MAZ;3;Martin Vucic;Make My Day;52;17
+946;2005;ZYP;3;Constantinos Christoforou;Ela Ela;46;18
+947;2005;S;3;Martin Stenmark;Las Vegas;30;19
+948;2005;UKR;3;Greenjolly;Razom Nas Bahaton;30;20
+949;2005;E;3;Son de sol;Brujeria;28;21
+950;2005;UK;3;Javine;Touch My Fire;18;22
+951;2005;F;3;Ortal;Chacun Pense A Soi;11;23
+952;2005;D;3;Gracia;Run & Hide;4;24
+953;2006;DK;3;Sidsel Ben Semmane;Twist Of Love;26;18
+954;2006;CH;3;six4one;If We All Give a Little;30;16
+955;2006;LET;3;Cosmos;I Hear Your Heart;30;16
+956;2006;D;3;Texas Lightning;No No Never;36;14
+957;2006;N;3;Christine Guldbrandsen;Alvedansen;36;14
+958;2006;CRO;3;Severina;Moja ≈°tikla;56;12
+959;2006;MAZ;3;Elena Risteska;Ninanajna;56;12
+960;2006;TR;3;Sibel T√ºz√ºn;Superstar;91;11
+961;2006;IRL;3;Brian Kennedy;Every Song Is A Cry For Love;93;10
+962;2006;GR;3;Anna Vissi;Everything;128;9
+963;2006;ARM;3;Andre;Without Your Love;129;8
+964;2006;UKR;3;Tina Karol;Show Me Your Love;145;7
+965;2006;LIT;3;LT United;We Are The Winners;162;6
+966;2006;S;3;Carola;Invincible;170;5
+967;2006;ROM;3;Mihai Traistariu;Tornero;172;4
+968;2006;BIH;3;Hari Mata Hari;Lejla;229;3
+969;2006;RUS;3;Dima Bilan;Never Let You Go;248;2
+970;2006;SF;3;Lordi;Hard Rock Hallelujah;292;1
+971;2006;UK;3;Daz Sampson;Teenage Life;25;19
+972;2006;MD;3;Arsenium & Natalia Gordienko;Loca;22;20
+973;2006;E;3;Las Ketchup;Bloody Mary;18;21
+974;2006;F;3;Virginie Pouchain;Il √©tait temps;5;22
+975;2006;ISR;3;Eddie Butler;Together We Are One;4;23
+976;2006;MAL;3;Fabrizio Faniello;I Do;1;24
+977;2007;SRB;3;Marija Serifovic;Molitva;268;1
+978;2007;UKR;3;Verka Serduchka;Dancing Lasha Tumbai;235;2
+979;2007;RUS;3;Serebro;Song #1;207;3
+980;2007;TR;3;Kenan Dogulu;Shake It Up Shekerim;163;4
+981;2007;BG;3;Elitsa Todorova & Stoyan Yankulov;Water;157;5
+982;2007;BRS;3;Dimitry Koldun;Work Your Magic;145;6
+983;2007;GR;3;Sarbel;Yassou Maria;139;7
+984;2007;ARM;3;Hayko;Anytime You Need;138;8
+985;2007;H;3;Magdi R√∫zsa;Unsubstantial Blues;128;9
+986;2007;MD;3;Natalia Barbu;Fight;109;10
+987;2007;BIH;3;Marija Sestic;Rijeka bez imena;106;11
+988;2007;GE;3;Sopho Khalvashi;Visionary Dream;97;12
+989;2007;ROM;3;Todomondo;Liubi, Liubi, I Love You;84;13
+990;2007;MAZ;3;Karolina Goceva;Mojot svet;73;14
+991;2007;SLO;3;Alenka Gotar;Cvet z juga;66;15
+992;2007;LET;3;Bonaparti.lv;Questa notte;54;16
+993;2007;SF;3;Hanna Pakarinen;Leave Me Alone;53;17
+994;2007;S;3;The Ark;The Worrying Kind;51;18
+995;2007;D;3;Roger Cicero;Frauen regier'n die Welt;49;19
+996;2007;E;3;D'Nash;I Love You Mi Vida;43;20
+997;2007;LIT;3;4Fun;Love Or Leave;28;21
+998;2007;F;3;Les Fatals Picards;L'amour √† la fran√ßaise;19;22
+999;2007;UK;3;Scooch;Flying The Flag;19;22
+1000;2007;IRL;3;Dervish;They Can't Stop The Spring;5;24
+1006;2006;B;0;Kate Ryan;Je t'adore;0;NULL
+1008;2006;ALB;0;Luiz Ejlli;Fire And Cold;0;NULL
+1011;2006;PL;0;Ich Troje;Follow My Heart;0;NULL
+1013;2006;ISL;0;Silvia Night;Til hamingju Island;0;NULL
+1015;2006;BG;0;Mariana Popova;Let Me Cry;0;NULL
+1016;2006;ZYP;0;Annette Artani;Why Angels Cry;0;NULL
+1017;2006;SLO;0;Anzej Dezan;Mr. Nobody;0;NULL
+1018;2006;EST;0;Sandra Oxenryd;Through My Window;0;NULL
+1019;2006;POR;0;Nonstop;Coisas de nada;0;NULL
+1020;2006;NL;0;Treble;Amambanda;0;NULL
+1021;2006;MC;0;S√©verine Ferrer;La coco-dance;0;NULL
+1022;2006;BRS;0;Polina Smolova;Mum;0;NULL
+1024;2006;AD;0;Jennifer;Sense tu;0;NULL
+1025;2005;PL;0;Ivan & Delfin;Czarna Dziewczyna;0;NULL
+1026;2005;SLO;0;Omar Naber;Stop;0;NULL
+1027;2005;BRS;0;Angelica Agurbash;Love Me Tonight;0;NULL
+1029;2005;NL;0;Glennis Grace;My Impossible Dream;0;NULL
+1030;2005;ISL;0;Selma;If I Had Your Love;0;NULL
+1031;2005;POR;0;2B;Amar;0;NULL
+1032;2005;SF;0;Geir R√∂nning;Why;0;NULL
+1033;2005;BG;0;Kaffe;Lorrain;0;NULL
+1034;2005;EST;0;Suntribe;Let's Get Loud;0;NULL
+1035;2005;AUT;0;Global. Kryner;Y Asi;0;NULL
+1036;2005;B;0;Nuno Resende;Le Grand Soir;0;NULL
+1037;2005;AD;0;Marian van de Wal;La Mirada Interior;0;NULL
+1038;2005;MC;0;Lise Darly;Tout De Moi;0;NULL
+1039;2005;LIT;0;Laura & The Lovers;Little By Little;0;NULL
+1040;2007;POR;0;Sabrina;Dan√ßa comigo;0;NULL
+1041;2007;AD;0;Anonymous;Let's Save The World;0;NULL
+1042;2007;ISL;0;Eir√≠kur Hauksson;Valentine Lost;0;NULL
+1043;2007;PL;0;The Jet Set;Time To Party;0;NULL
+1044;2007;ZYP;0;Evridiki;Comme ci, comme c√ßa;0;NULL
+1045;2007;CRO;0;Dragonfly feat. Dado Topiƒá;Vjerujem u ljubav;0;NULL
+1046;2007;ALB;0;Aida & Frederik Ndoci;Hear My Plea;0;NULL
+1047;2007;N;0;Guri Schanke;Ven a bailar conmigo;0;NULL
+1048;2007;DK;0;DQ;Drama Queen;0;NULL
+1049;2007;CH;0;DJ Bobo;Vampires Are Alive;0;NULL
+1050;2007;NL;0;Edsilia Rombley;On Top Of The World;0;NULL
+1051;2007;EST;0;Gerli Padar;Partners In Crime;0;NULL
+1052;2007;ME;0;Stevan Faddy;Ajde kroci;0;NULL
+1053;2007;ISR;0;Teapacks;Push The Button;0;NULL
+1054;2007;MAL;0;Olivia Lewis;Vertigo;0;NULL
+1055;2007;B;0;The Krazy Mess Groovers;Love Power;0;NULL
+1056;2007;AUT;0;Eric Papilaya;Get A Life - Get Alive;0;NULL
+1057;2007;CZ;0;Kab√°t;M√°la d√°ma;0;NULL
+1058;2004;ISR;0;David D'Or;To Believe;0;NULL
+1059;2004;EST;0;Neiok√µs√µ;Tii;0;NULL
+1060;2004;DK;0;Tomas Thordarson;Shame On You;0;NULL
+1061;2004;SF;0;Jari Sillanp√§√§;Takes 2 To Tango;0;NULL
+1062;2004;POR;0;Sofia;Foi Magia;0;NULL
+1063;2004;LIT;0;Linas & Simona;What's Happened To Your Love;0;NULL
+1064;2004;LET;0;Fomins & Kleins;Dziesma Par Laimi;0;NULL
+1065;2004;AD;0;Marta Roure;Jugarem A Estimar-Nos;0;NULL
+1066;2004;BRS;0;Aleksandra & Konstantin;My Galileo;0;NULL
+1067;2004;MC;0;Maryon;Notre Plan√®te;0;NULL
+1068;2004;SLO;0;Platin;Stay Forever;0;NULL
+1069;2004;CH;0;Piero Esteriore & The MusicStars;Celebrate!;0;NULL
+1070;1956;F;3;Math√© Alt√©ry;Le temps perdu;0;13
+1071;1956;LUX;3;Mich√®le Arnaud;Ne crois pas;0;13
+1072;1956;LUX;3;Mich√®le Arnaud;Les amants de minult;0;13
+1073;1956;CH;3;Lys Assia;Das alte Karussell;0;13
+1074;1956;NL;3;Corry Brokken;Voorgoed voorbij;0;13
+1075;1956;F;3;Dany Dauberson;Il est l√†;0;13
+1076;1956;B;3;Fud Leclerc;Messieurs les noy√©s de la Seine;0;13
+1077;1956;B;3;Marc Mony;Le plus beau jour de ma vie;0;13
+1078;1956;NL;3;Jetty Paerl;De vogels van Holland;0;13
+1079;1956;D;3;Freddy Quinn;So geht das jede Nacht;0;13
+1080;1956;I;3;Franca Raimondi;Aprite le finestre;0;13
+1081;1956;D;3;Walter A. Schwarz;Im Wartesaal zum gro√üen Gl√ºck;0;13
+1082;1956;I;3;Tonina Torrielli;Amami se vuoi;0;13
+1083;2005;IRL;0;Donna & Joseph McCaul;Love;0;NULL
+1085;2008;ME;0;Stefan Filipovic;Zauvijek Volim Te;0;NULL
+1087;2008;EST;0;Kreisiraadio;Leto Svet;0;NULL
+1088;2008;MD;0;Geta Burluca;A Century for Love;0;NULL
+1089;2008;SM;0;Mi Odio;Complice;0;NULL
+1090;2008;B;0;Ishtar;O Julissi;0;NULL
+1091;2008;SLO;0;Rebeka Dremelj;Vrag naj vzame;0;NULL
+1092;2008;IRL;0;Dustin the Turkey;Ireland Douze Points;0;NULL
+1093;2008;AD;0;Gisela;Casanova;0;NULL
+1094;2008;NL;0;Hind;Your Heart Belongs To Me;0;NULL
+1095;2008;LIT;0;Jeronimas Milius;Nomads in the Night;0;NULL
+1096;2008;CH;0;Paolo Meneguzzi;Era Stupendo;0;NULL
+1097;2008;CZ;0;Tereza Kerndlova;Have Some Fun;0;NULL
+1098;2008;BRS;0;Ruslan Alehno;Hasta La Vista;0;NULL
+1099;2008;BG;0;Deep Zone & Balthazar;DJ Take Me Away;0;NULL
+1100;2008;H;0;Csezy;Candlelight;0;NULL
+1101;2008;MAL;0;Morena;Vodka;0;NULL
+1102;2008;ZYP;0;Evdokia Kadi;Femme fatale;0;NULL
+1103;2008;MAZ;0;Tamara feat. Vrcak & Adrian;Let Me Love You;0;NULL
+1104;2008;PL;3;Isis Gee;For Life;14;24
+1105;2008;UK;3;Andy Abraham;Even If;14;25
+1106;2008;D;3;No Angels;Disappear;14;23
+1107;2008;SF;3;Ter√§sbetoni;Miss√§ miehet ratsastaa;35;22
+1108;2008;CRO;3;Kraljevi ulice & 75 Cents;Romanca;44;21
+1109;2008;ROM;3;Nico & Vlad;Pe-o margine de lume;45;20
+1110;2008;F;3;S√©bastien Tellier;Divine;47;19
+1111;2008;S;3;Charlotte Perrelli;Hero;47;18
+1112;2008;ALB;3;Olta Boka;Zemr√´n lam√´ peng;55;17
+1113;2008;E;3;Rodolfo Chikilicuatre;Baila el chiki chiki;55;16
+1114;2008;DK;3;Simon Mathew;All Night Long;60;15
+1115;2008;ISL;3;Euroband;This Is My Life;64;14
+1116;2008;POR;3;V√¢nia Fernandes;Senhora do Mar;69;13
+1117;2008;LET;3;Pirates Of The Sea;Wolves Of The Sea;83;12
+1118;2008;GE;3;Diana Gurtskaya;Peace Will Come;83;11
+1119;2008;BIH;3;Laka;Pokusaj;110;10
+1120;2008;ISR;3;Boaz Mauda;The Fire In Your Eyes;124;9
+1121;2008;AZ;3;Elnur & Samir;Day After Day;132;8
+1122;2008;TR;3;Mor ve √∂tesi;Deli;138;7
+1123;2008;SRB;3;Jelena Tomasevic;Oro;160;6
+1124;2008;N;3;Maria Haukaas Storeng;Hold On Be Strong;182;5
+1125;2008;ARM;3;Sirusho;Qele qele;199;4
+1126;2008;GR;3;Kalomira;Secret Combination;218;3
+1127;2008;UKR;3;Ani Lorak;Shady Lady;230;2
+1128;2008;RUS;3;Dima Bilan;Believe;272;1
+1129;2009;N;3;Alexander Rybak;Fairytale;387;1
+1130;2009;ISL;3;Yohanna;Is It True;218;2
+1131;2009;AZ;3;AySel & Arash;Always;207;3
+1132;2009;TR;3;Hadise;D√ºm tek tek;177;4
+1133;2009;UK;3;Jade;My Time;173;5
+1134;2009;EST;3;Urban Symphony;R√§ndajad;129;6
+1135;2009;GR;3;Sakis Rouvas;This Is Our Night;120;7
+1136;2009;F;3;Patricia Kaas;Et s'il fallait le faire;107;8
+1137;2009;BIH;3;Regina;Bistro Voda;106;9
+1138;2009;ARM;3;Inga & Anush;Jan Jan;92;10
+1139;2009;RUS;3;Anastasija Prichodko;Mamo;91;11
+1140;2009;UKR;3;Svetlana Loboda;Be My Valentine;76;12
+1141;2009;DK;3;Brinck;Belive Again;74;13
+1142;2009;MD;3;Nelly Ciobanu;Hora Din Moldova;69;14
+1143;2009;POR;3;Flor-de-Lis;Todas as ruas do amor;57;15
+1144;2009;ISR;3;Noa & Mira Awad;There Must Be Another Way;53;16
+1145;2009;ALB;3;Kejsi Tola;Carry Me in Your Dreams;48;17
+1146;2009;CRO;3;Igor Cukrov feat. Andrea;Lijepa Tena;45;18
+1147;2009;ROM;3;Elena;The Balkan Girls;40;19
+1148;2009;D;3;Alex Swings Oscar Sings!;Miss Kiss Kiss Bang;35;20
+1149;2009;S;3;Malena Ernman;La voix;33;21
+1150;2009;MAL;3;Chiara;What If We;31;22
+1151;2009;LIT;3;Sasha Son;Love;23;23
+1152;2009;E;3;Soraya;La noche es para m√≠;23;24
+1153;2009;SF;3;Waldo's People;Lose Control;22;25
+1154;2009;AD;0;Susanne Georgi;La teva decisi√≥;0;NULL
+1155;2009;B;0;Copycat;Copycat;0;NULL
+1156;2009;BG;0;Krassimir Avramov;Illusion;0;NULL
+1157;2009;IRL;0;Sin√©ad Mulvey & Black Daisy;Et Cetera;0;NULL
+1158;2009;LET;0;Intars Busulis;Probka;0;NULL
+1159;2009;MAZ;0;Next Time;Ne≈°to Sto Ke Ostane;0;NULL
+1160;2009;ME;0;Andrea Demirovic;Just Get Out Of My Life;0;NULL
+1161;2009;NL;0;De Toppers;Shine;0;NULL
+1162;2009;PL;0;Lidia Kopania;I Don't Wanna Leave;0;NULL
+1163;2009;CH;0;Lovebugs;The Highest Heights;0;NULL
+1164;2009;SRB;0;Marko Kon & Milan:;Cipela;0;NULL
+1165;2009;SLK;0;Kamil Mikulc√≠k & Nela Pociskov√°;Let T'mou;0;NULL
+1166;2009;SLO;0;Quartissimo feat. Martina;Love Symphony;0;NULL
+1167;2009;CZ;0;Gipsy.cz;Aven Romale;0;NULL
+1168;2009;H;0;Zoli √Ådok;Dance With Me;0;NULL
+1169;2009;BRS;0;Petr Elfimov;Eyes That Never Lie;0;NULL
+1170;2009;ZYP;0;Christina Metaxa;Firefly;0;NULL
+1172;2010;D;3;Lena;Satellite;246;1
+1173;2010;TR;3;Manga;We Could Be The Same;170;2
+1174;2010;ROM;3;Paula & Ovi;Playing With Fire;162;3
+1175;2010;DK;3;Chan√©e & N'evergreen;In A Moment Like This;149;4
+1176;2010;AZ;3;Safura;Drip Drop;145;5
+1177;2010;B;3;Tom Dice;Me And My Guitar;143;6
+1178;2010;ARM;3;Eva Rivas;Apricot Stone;141;7
+1179;2010;GR;3;Giorgos Alkaios & Friends;OPA;140;8
+1180;2010;GE;3;Sofia Nizharadze;Shine;136;9
+1181;2010;UKR;3;Aljoscha;Sweet People;108;10
+1182;2010;RUS;3;The Peter Nalitch Band;Lost And Forgotten;90;11
+1183;2010;F;3;Jessy Matador;Allez! Ola! Ol√©!;82;12
+1184;2010;SRB;3;Milan Stankoviƒá;Ovo je Balkan;72;13
+1185;2010;ISR;3;Harel Skaat;Milim;71;14
+1186;2010;E;3;Daniel Diges;Algo peque√±ito;68;15
+1187;2010;ALB;3;Juliana Pasha;It's All About You;62;16
+1188;2010;BIH;3;Vuka≈°in Brajiƒá;Thunder And Lightning;51;17
+1189;2010;POR;3;Filipa Azevedo;H√° dias assim;43;18
+1190;2010;ISL;3;Hera Bj√∂rk;Je ne sais quoi;41;19
+1191;2010;N;3;Didrik Solli-Tangen;My Heart Is Yours;35;20
+1192;2010;ZYP;3;Jon Lilygreen;Live Looks Better In Spring;27;21
+1193;2010;MD;3;Sun Stroke Project & Olia Tira;Run Away;27;22
+1194;2010;IRL;3;Niamh Kavanagh;It's For You;25;23
+1195;2010;BRS;3;3 + 2;Butterflies;18;24
+1196;2010;UK;3;Josh Dubovie;That Sounds Good To Me;10;25
+1197;2010;EST;0;Malcolm Lincoln & Manpower4;Siren;0;NULL
+1198;2010;SLK;0;Krist√≠na Pel√°kova;Horehronie;0;NULL
+1199;2010;SF;0;Kuunkuiskaajat;Ty√∂ki ell√§√§;0;NULL
+1200;2010;LET;0;Aisha;What For;0;NULL
+1201;2010;PL;0;Marcin Mrozi≈Ñski;Legenda;0;NULL
+1202;2010;MAL;0;Thea Garrett;My Dream;0;NULL
+1203;2010;MAZ;0;Gjoko Taneski;Jas ja imam silata;0;NULL
+1204;2010;LIT;0;In Culto;Eastern European Funk;0;NULL
+1205;2010;CH;0;Michael von der Heide;Il pleut de l'or;0;NULL
+1206;2010;S;0;Anna Bergendahl;This Is My Life;0;NULL
+1207;2010;NL;0;Sieneke;Ik ben verliefd (Sha-la-lie);0;NULL
+1208;2010;SLO;0;Ensemble Roka Zlindra & Kalamari;Narodnozabavni Rock;0;NULL
+1209;2010;BG;0;Miro;Angel si ti;0;NULL
+1210;2010;CRO;0;Feminnem;Lako je sve;0;NULL
+1214;2011;E;3;Luc√≠a P√©rez;Que Me Quiten Lo Bailao;50;23
+1215;2011;CH;3;Anna Rossinelli;In Love For A While;19;25
+1216;2011;ROM;3;Hotel FM;Change;77;17
+1217;2011;BIH;3;Dino Merlin;Love In Rewind;125;6
+1218;2011;D;3;Lena;Taken By A Stranger;107;10
+1219;2011;BG;0;Poli Genova;Na Inat;0;NULL
+1220;2011;I;3;Raphael Gualazzi;Madness Of Love;189;2
+1221;2011;SRB;3;Nina;Caroban;85;14
+1222;2011;ALB;0;Aurela Ga√ße;Feel The Passion;0;NULL
+1223;2011;ARM;0;Emmy;Boom Boom;0;NULL
+1224;2011;SF;3;Paradise Oskar;Da Da Dam;57;21
+1225;2011;GE;3;Eldrine;One More Day;110;9
+1226;2011;N;0;Stella Mwangi;Haba Haba;0;NULL
+1227;2011;PL;0;Magdalena Tul;Jestem;0;NULL
+1228;2011;RUS;3;Alexey Vorobyov;Get You;77;16
+1229;2011;TR;0;Y√ºksek Sadakat;Live It Up;0;NULL
+1230;2011;AZ;3;Ell / Nikki;Running Scared;221;1
+1231;2011;GR;3;Loucas Yiorkas feat. Stereo Mike;Watch My Dance;120;7
+1232;2011;ISL;3;Sjonni's Friends;Coming Home;61;20
+1233;2011;CRO;0;Daria Kinzer;Celebrate;0;NULL
+1234;2011;LIT;3;Evelina Sa≈°enko;C'est Ma Vie;63;19
+1235;2011;MAL;0;Glen Vella;One Life;0;NULL
+1236;2011;POR;0;Homens da Luta;Luta √â Alegr√≠a;0;NULL
+1237;2011;SM;0;Senit;Stand By;0;NULL
+1238;2011;H;3;Kati Wolf;What About My Dreams;53;22
+1239;2011;B;0;Witloof Bay;With Love Baby;0;NULL
+1240;2011;MD;3;Zdob »ôi Zdub;So Lucky;97;12
+1241;2011;NL;0;3Js;Never Alone;0;NULL
+1242;2011;AUT;3;Nadine Beiler;The Secret Is Love;64;18
+1243;2011;S;3;Eric Saade;Popular;185;3
+1244;2011;SLK;0;Twiins;I'm Still Alive;0;NULL
+1245;2011;UKR;3;Mika Newton;Angel;159;4
+1246;2011;ZYP;0;Christos Mylordos;San Aggelos S'Agapisa;0;NULL
+1247;2011;DK;3;A Friend In London;New Tomorrow;134;5
+1248;2011;EST;3;Getter Jaani;Rockefeller Street;44;24
+1249;2011;IRL;3;Jedward;Lipstick;119;8
+1250;2011;ISR;0;Dana International;Ding Dong;0;NULL
+1251;2011;LET;0;Musiqq;Angel In Disguise;0;NULL
+1252;2011;MAZ;0;Vlatko Ilievski;Rusinka;0;NULL
+1253;2011;SLO;3;Maja Keuc;No One;96;13
+1254;2011;BRS;0;Anastasiya Vinnikova;I Love Belarus;0;NULL
+1255;2011;F;3;Amaury Vassili;Sognu;82;15
+1256;2011;UK;3;Blue;I Can;100;11
+1257;2012;ALB;3;Rona Nishliu;Suus;146;5
+1258;2012;AZ;3;Sabina Babayeva;When The Music Dies;150;4
+1259;2012;B;0;Iris;Would You?;0;NULL
+1260;2012;BIH;3;Maya Sar;Korake ti znam;55;18
+1261;2012;BG;0;Sofi Marinova;Love Unlimited;0;NULL
+1262;2012;DK;3;Soluna Samay;Should've Known Better;21;23
+1263;2012;D;3;Roman Lob;Standing Still;110;8
+1264;2012;EST;3;Ott Lepland;Kuula;120;6
+1265;2012;SF;0;Pernilla Karlsson;N√§r Jag Blundar;0;NULL
+1266;2012;F;3;Anggun;Echo (You And I);21;22
+1267;2012;GE;0;Anri Jokhadze;I'm A Joker;0;NULL
+1268;2012;GR;3;Eleftheria Eleftheriou;Aphrodisiac;64;17
+1269;2012;UK;3;Engelbert Humperdinck;Love Will Set You Free;12;25
+1270;2012;IRL;3;Jedward;Waterline;46;19
+1271;2012;I;3;Nina Zilli;L'Amore √à Femmina (Out Of Love);101;9
+1272;2012;ISL;3;Greta Sal√≥me & J√≥nsi;Mundu Eftir M√©r;46;20
+1273;2012;ISR;0;Izabo;Time;0;NULL
+1274;2012;CRO;0;Nina Badric;Nebo;0;NULL
+1275;2012;LET;0;Anmary;Beautiful Song;0;NULL
+1276;2012;LIT;3;Donny Montell;Love Is Blind;70;14
+1277;2012;MAL;3;Kurt Calleja;This Is The Night;41;21
+1278;2012;MAZ;3;Kaliopi;Crno I Belo;71;13
+1279;2012;MD;3;Pasha Parfeny;Lautar;81;11
+1280;2012;ME;0;Rambo Amadeus;Euro-Neuro;0;NULL
+1281;2012;NL;0;Joan Franka;You And Me;0;NULL
+1282;2012;N;3;Tooji;Stay;7;26
+1283;2012;AUT;0;Trackshittaz;Woki mit deim Popo;0;NULL
+1284;2012;POR;0;Filipa Sousa;Vida Minha;0;NULL
+1285;2012;ROM;3;Mandinga;Zaleilah;71;12
+1286;2012;RUS;3;Buranowski Babuschki;Party For Everybody!;259;2
+1287;2012;SM;0;Valentina Monetta;The Social Network Song;0;NULL
+1288;2012;S;3;Loreen;Euphoria;372;1
+1289;2012;CH;0;Sinplus;Unbreakable;0;NULL
+1290;2012;SRB;3;Zeljko Joksimovic;Nije Ljubav Stvar;214;3
+1291;2012;SLK;0;Max Jason Mai;Don't Close Your Eyes;0;NULL
+1292;2012;SLO;0;Eva Boto;Verjamem;0;NULL
+1293;2012;E;3;Pastora Soler;Qu√©date Conmigo;97;10
+1294;2012;TR;3;Can Bonomo;Love Me Back;112;7
+1295;2012;UKR;3;Gaitana;Be My Guest;65;15
+1296;2012;H;3;Compact Disco;Sound Of Our Hearts;19;24
+1297;2012;BRS;0;Litesound;We Are The Heroes;0;NULL
+1298;2012;ZYP;3;Ivi Adamou;La La Love;65;16
+1299;2013;ALB;0;Adrian Lulgjuraj & Bledar Sejko;Identitet;0;NULL
+1300;2013;ARM;3;Dorians;Lonely Planet;41;18
+1301;2013;AZ;3;Farid Mammadov;Hold Me;234;2
+1302;2013;B;3;Roberto Bellarosa;Love Kills;71;12
+1303;2013;BG;0;Elitsa Todorova & Stoyan Yankulov;Samo Shampioni;0;NULL
+1304;2013;DK;3;Emmelie de Forest;Only Teardrops;281;1
+1305;2013;D;3;Cascada;Glorious;18;21
+1306;2013;EST;3;Birgit √ïigemeel;Et uus saaks alguse;19;20
+1307;2013;SF;3;Krista Siegfrids;Marry Me;13;24
+1308;2013;F;3;Amandine Bourgeois;L'Enfer Et Moi;14;23
+1309;2013;GE;3;Sophie Gelovani & Nodi Tatishvili;Waterfall;50;15
+1310;2013;GR;3;Koza Mostra & Agathonas Iakovidis;Alcohol Is Free;152;6
+1311;2013;UK;3;Bonnie Tyler;Believe In Me;23;19
+1312;2013;IRL;3;Ryan Dolan;Only Love Survives;5;26
+1313;2013;ISL;3;Ey√æ√≥r Ingi Gunnlaugsson;√âg √° l√≠f;47;17
+1314;2013;ISR;0;Moran Mazor;Rak bishvilo;0;NULL
+1315;2013;I;3;Marco Mengoni;L'Essenziale;126;7
+1316;2013;CRO;0;Klapa S Mora;Mi≈æerja;0;NULL
+1317;2013;LET;0;PeR;Here We Go;0;NULL
+1318;2013;LIT;3;Andrius Pojavis;Something;17;22
+1319;2013;MAL;3;Gianluca Bezzina;Tomorrow;120;8
+1320;2013;MAZ;0;Esma & Lozano;Pred da se razdeni;0;NULL
+1321;2013;MD;3;Aliona Moon;A Million;71;11
+1322;2013;ME;0;Who See;Igranka;0;NULL
+1323;2013;NL;3;Anouk;Birds;114;9
+1324;2013;N;3;Margaret Berger;I Feed You My Love;191;4
+1325;2013;AUT;0;Nat√°lia Kelly;Shine;0;NULL
+1326;2013;ROM;3;Cezar;It's My Life;56;13
+1327;2013;RUS;3;Dina Garipova;What If;174;5
+1328;2013;SM;0;Valentina Monetta;Crisalide;0;NULL
+1329;2013;S;3;Robin Stjernberg;You;62;14
+1330;2013;CH;0;Takasa;You And Me;0;NULL
+1331;2013;SRB;0;Moje 3;Ljubav je svuda;0;NULL
+1332;2013;SLO;0;Hannah;Straight Into Love;0;NULL
+1333;2013;E;3;El Sue√±o De Morfeo;Contigo hasta el final;8;25
+1334;2013;UKR;3;Zlata Ognevich;Gravity;214;3
+1335;2013;H;3;ByeAlex;Kedvesem;84;10
+1336;2013;BRS;3;Alena Lanskaja;Solayoh;48;16
+1337;2013;ZYP;0;Despina Olympiou;An me thimase;0;NULL
+1341;2014;ALB;0;Hersi Matmuja;One Night's Anger;0;NULL
+1342;2014;ARM;3;Aram Mp3;Not Alone;174;4
+1343;2014;AZ;3;Dilara Kazimova;Start A Fire;33;22
+1344;2014;B;0;Axel Hirsoux;Mother;0;NULL
+1345;2014;DK;3;Basim;Clich√© Love Song;74;9
+1346;2014;D;3;Elaiza;Is It Right;39;18
+1347;2014;EST;0;Tanja;Amazing;0;NULL
+1348;2014;SF;3;Softengine;Something Better;72;11
+1350;2014;F;3;Twin Twin;Moustache;2;26
+1351;2014;GE;0;The Shin & Mariko;Three Minutes To Earth;0;NULL
+1352;2014;GR;3;Freaky Fortune feat. Risky Kidd;Rise Up;35;20
+1353;2014;UK;3;Molly Smitten-Downes;Children Of The Universe;40;17
+1354;2014;IRL;0;Can-linn;Heartbeat;0;NULL
+1355;2014;I;3;Emma Marrone;La mia citt√†;33;21
+1356;2014;ISL;3;Pollap√∂nk;No Prejudice;58;15
+1357;2014;ISR;0;Mei Finegold;Same Heart;0;NULL
+1358;2014;LET;0;Aarzemnieki;Cake To Bake;0;NULL
+1359;2014;LIT;0;Vilija Mataƒçi≈´naitƒó;Attention;0;NULL
+1360;2014;MAL;3;Firelight;Coming Home;32;23
+1361;2014;MAZ;0;Tijana Dapƒçeviƒá;To The Sky;0;NULL
+1362;2014;MD;0;Cristina Scarlat;Wild Soul;0;NULL
+1363;2014;ME;3;Sergej ƒÜetkoviƒá;Moj svijet;37;19
+1364;2014;NL;3;The Common Linnets;Calm After The Storm;238;2
+1365;2014;N;3;Carl Espen;Silent Storm;88;8
+1366;2014;AUT;3;Conchita Wurst;Rise Like A Phoenix;290;1
+1367;2014;PL;3;Donatan & Cleo;My S≈Çowianie - We Are Slavic;62;14
+1368;2014;POR;0;Suzy;Quero ser tua;0;NULL
+1369;2014;ROM;3;Paula Seling & Ovi;Miracle;72;12
+1370;2014;RUS;3;Tolmachevy Sisters;Shine;89;7
+1371;2014;SM;3;Valentina Monetta;Maybe;14;24
+1372;2014;S;3;Sanna Nielsen;Undo;218;3
+1373;2014;CH;3;Sebalter;Hunter Of Stars;64;13
+1374;2014;SLO;3;Tinkara Kovaƒç;Spet (Round And Round);9;25
+1375;2014;E;3;Ruth Lorenzo;Dancing In The Rain;74;10
+1376;2014;UKR;3;Maria Yaremchuk;Tick-Tock;113;6
+1377;2014;H;3;Andr√°s K√°llay-Saunders;Running;143;5
+1378;2014;BRS;3;Teo;Cheesecake;43;16
+1379;2015;ALB;3;Elhaida Dani;I'm Alive;34;17
+1380;2015;ARM;3;Genealogy;Face The Shadow;34;16
+1381;2015;AZ;3;Elnur H√ºseynov;Hour Of The Wolf;49;12
+1382;2015;B;3;Lo√Øc Nottet;Rhythm Inside;217;4
+1383;2015;DK;0;Anti Social Media;The Way You Are;0;NULL
+1384;2015;D;3;Ann Sophie;Black Smoke;0;27
+1385;2015;EST;3;Elina Born & Stig R√§sta;Goodbye To Yesterday;106;7
+1386;2015;SF;0;Pertti Kurikan Nimip√§iv√§t;Aina mun pit√§√§;0;NULL
+1387;2015;F;3;Lisa Angell;N'oubliez pas;4;25
+1388;2015;GE;3;Nina Sublatti;Warrior;51;11
+1389;2015;GR;3;Maria Elena Kiriakou;One Last Breath;23;19
+1390;2015;UK;3;Electro Velvet;Still In Love With You;5;24
+1391;2015;IRL;0;Molly Sterling;Playing With Numbers;0;NULL
+1392;2015;ISL;0;Mar√≠a √ìlafsd√≥ttir;Unbroken;0;NULL
+1393;2015;ISR;3;Nadav Guedj;Golden Boy;97;9
+1394;2015;I;3;Il Volo;Grande Amore;292;3
+1395;2015;LET;3;Aminata Savadogo;Love Injected;186;6
+1396;2015;LIT;3;Monika Linkytƒó & Vaidas Baumila;This Time;30;18
+1397;2015;MAL;0;Amber;Warrior;0;NULL
+1398;2015;MAZ;0;Daniel Kajmakoski;Autumn Leaves;0;NULL
+1399;2015;MD;0;Eduard Roman√Ωuta;I Want Your Love;0;NULL
+1400;2015;ME;3;Knez;Adio;44;13
+1401;2015;NL;0;Trijntje Oosterhuis;Walk Along;0;NULL
+1402;2015;N;3;M√∏rland & Debrah Scarlett;A Monster Like Me;102;8
+1403;2015;AUT;3;The Makemakes;I Am Yours;0;26
+1404;2015;PL;3;Monika Kuszy≈Ñska;In The Name Of Love;10;23
+1405;2015;POR;0;Leonor Andrade;H√° um mar que nos separa;0;NULL
+1406;2015;ROM;3;Voltaj;De la capƒÉt;35;15
+1407;2015;RUS;3;Polina Gagarina;A Million Voices;303;2
+1408;2015;SM;0;Michele Perniola & Anita Simoncini;Chain Of Lights;0;NULL
+1409;2015;S;3;M√•ns Zelmerl√∂w;Heroes;365;1
+1410;2015;CH;0;M√©lanie Ren√©;Time To Shine;0;NULL
+1411;2015;SRB;3;Bojana Stamenov;Beauty Never Lies;53;10
+1412;2015;SLO;3;Maraaya;Here For You;39;14
+1413;2015;E;3;Edurne;Amanecer;15;21
+1414;2015;CZ;0;Marta Jandov√° & V√°clav Noid B√°rta;Hope Never Dies;0;NULL
+1415;2015;H;3;Boggie;Wars For Nothing;19;20
+1416;2015;BRS;0;Uzari & Maimuna;Time;0;NULL
+1417;2015;ZYP;3;John Karayiannis;One Thing I Should Have Done;11;22
+1418;2015;AUS;3;Guy Sebastian;Tonight Again;196;5
+1419;2016;ALB;0;Eneda Tarifa;Fairytale;NULL;NULL
+1420;2016;ARM;3;Iveta Mukuchyan;Love Wave;249;7
+1421;2016;AZ;3;Samra Rahimli;Miracle;117;17
+1422;2016;AUS;3;Dami Im;Sound Of Silence;511;2
+1423;2016;B;3;Laura Tesoro;What's The Pressure;181;10
+1424;2016;BIH;0;Dalal & Deen feat. Ana Rucner and Jala;Ljubav je;NULL;NULL
+1425;2016;BG;3;Poli Genova;If Love Was A Crime;307;4
+1426;2016;DK;0;Lighthouse X;Soldiers Of Love;NULL;NULL
+1427;2016;D;3;Jamie-Lee;Ghost;11;26
+1428;2016;EST;0;J√ºri Pootsmann;Play;NULL;NULL
+1429;2016;SF;0;Sandhja;Sing It Away;NULL;NULL
+1430;2016;F;3;Amir;J'ai cherch√©;257;6
+1431;2016;GE;3;Young Georgian Lolitaz;Midnight Gold;104;20
+1432;2016;GR;0;Argo;Utopian Land;NULL;NULL
+1433;2016;UK;3;Joe and Jake;You're Not Alone;62;24
+1434;2016;IRL;0;Nicky Byrne;Sunlight;NULL;NULL
+1435;2016;ISL;0;Greta Sal√≥me;Hear Them Calling;NULL;NULL
+1436;2016;ISR;3;Hovi Star;Made Of Stars;135;14
+1437;2016;I;3;Francesca Michielin;No Degree Of Separation;124;16
+1438;2016;CRO;3;Nina Kraljiƒá;Lighthouse;73;23
+1439;2016;LET;3;Justs;Heartbeat;132;15
+1440;2016;LIT;3;Donny Montell;I‚Äôve Been Waiting For This Night;200;9
+1441;2016;MAL;3;Ira Losco;Walk On Water;153;12
+1442;2016;MAZ;0;Kaliopi;Dona;NULL;NULL
+1443;2016;MD;0;Lidia Isac;Falling Stars;NULL;NULL
+1444;2016;ME;0;Highway;The Real Thing;NULL;NULL
+1445;2016;NL;3;Douwe Bob;Slow Down;153;11
+1446;2016;N;0;Agnete;Icebreaker;NULL;NULL
+1447;2016;AUT;3;Zo√´;Loin d'ici;151;13
+1448;2016;PL;3;Micha≈Ç Szpak;Colour Of Your Life;229;8
+1450;2016;RUS;3;Sergey Lazarev;You Are The Only One;491;3
+1451;2016;SM;0;Serhat;I Didn't Know;NULL;NULL
+1452;2016;S;3;Frans;If I Were Sorry;261;5
+1453;2016;CH;0;Rykka;The Last Of Our Kind;NULL;NULL
+1454;2016;SRB;3;Sanja Vuƒçiƒá;Goodbye;115;18
+1455;2016;SLO;0;ManuElla;Blue And Red;NULL;NULL
+1456;2016;E;3;Barei;Say Yay!;77;22
+1457;2016;CZ;3;Gabriela Gunƒç√≠kov√°;I Stand;41;25
+1458;2016;UKR;3;Jamala;1944;534;1
+1459;2016;H;3;Freddie;Pioneer;108;19
+1460;2016;BRS;0;Ivan;Help You Fly;NULL;NULL
+1461;2016;ZYP;3;Minus One;Alter Ego;96;21
+1463;2017;ALB;1;Lindita Halimi;World;NULL;NULL
+1464;2017;ARM;3;Artsvik ;Fly With Me;79;18
+1465;2017;AZ;3;Dihaj;Skeletons;120;14
+1466;2017;AUS;3;Isaiah;Don't Come Easy;173;9
+1467;2017;B;3;Blanche;City Lights;363;4
+1468;2017;BG;3;Kristian Kostov;Beautiful Mess;615;2
+1469;2017;DK;3;Anja Nissen;Where I Am;77;20
+1470;2017;D;3;Levina;Perfect Life;6;25
+1471;2017;EST;2;Koit Toome & Laura;Verona;NULL;NULL
+1472;2017;SF;1;Norma John;Blackbird;NULL;NULL
+1473;2017;F;3;Alma;Requiem;135;12
+1474;2017;GE;1;Tamara Gachechiladze;Keep The Faith;NULL;NULL
+1475;2017;GR;3;Demy;This Is Love;77;19
+1476;2017;UK;3;Lucie Jones;Never Give Up On You;111;15
+1477;2017;IRL;2;Brendan Murray;Dying to Try;NULL;NULL
+1478;2017;ISL;1;Svala;Paper;NULL;NULL
+1479;2017;ISR;3;Imri;I Feel Alive;39;23
+1480;2017;I;3;Francesco Gabbani;Occidentali‚Äôs Karma;334;6
+1481;2017;CRO;3;Jacques Houdek;My Friend;128;13
+1482;2017;LET;1;Triana Park;Line;NULL;NULL
+1483;2017;LIT;2;Fusedmarc;Rain Of Revolution;NULL;NULL
+1484;2017;MAL;2;Claudia Faniello;Breathlessly;NULL;NULL
+1485;2017;MAZ;2;Jana Burƒçeska;Dance Alone;NULL;NULL
+1486;2017;MD;3;SunStroke Project;Hey, Mamma!;374;3
+1487;2017;ME;1;Slavko Kaleziƒá;Space;NULL;NULL
+1488;2017;NL;3;O'G3NE;Lights And Shadows;150;11
+1489;2017;N;3;Jowst;Grab The Moment;158;10
+1490;2017;AUT;3;Nathan Trent;Running On Air;93;16
+1491;2017;PL;3;Kasia Mo≈õ;Flashlight;64;22
+1492;2017;POR;3;Salvador Sobral;Amar pelos dois;758;1
+1493;2017;ROM;3;Ilinca feat. Alex Florea;Yodel It!;282;7
+1495;2017;SM;2;Valentina Monetta & Jimmie Wilson;Spirit Of The Night;NULL;NULL
+1496;2017;S;3;Robin Bengtsson;I Can't Go On;344;5
+1497;2017;CH;2;Timebelle;Apollo;NULL;NULL
+1498;2017;SRB;2;Tijana Bogiƒáeviƒá;In Too Deep;NULL;NULL
+1499;2017;SLO;1;Omar Naber;On My Way;NULL;NULL
+1500;2017;E;3;Manel Navarro;Do It For Your Lover;5;26
+1501;2017;CZ;1;Martina B√°rta;My Turn;NULL;NULL
+1502;2017;UKR;3;O.Torvald;Time;36;24
+1503;2017;H;3;Joci P√°pai;Origo;200;8
+1504;2017;BRS;3;Naviband;Story Of My Life;83;17
+1505;2017;ZYP;3;Hovig Demirjian;Gravity;68;21
+1506;2018;B;1;Sennek;A Matter Of Time;NULL;NULL
+1507;2018;ALB;3;Eugent Bushpepa;Mall;184;11
+1508;2018;ARM;1;Sevak Khanagyan;Qami;NULL;NULL
+1509;2018;AZ;1;Aisel Mammadova;X My Heart;NULL;NULL
+1511;2018;BG;3;Equinox; Bones;166;14
+1512;2018;DK;3;Rasmussen;Higher Ground;226;9
+1513;2018;D;3;Michael Schulte;You Let Me Walk Alone;340;4
+1514;2018;EST;3;Elina Nechayeva;La forza;245;8
+1515;2018;SF;3;Saara Aalto;Monsters;46;25
+1516;2018;F;3;Madame Monsieur;Mercy;173;13
+1517;2018;GE;2;Iriao;For You;NULL;NULL
+1518;2018;GR;1;Yianna Terzi;Oniro mou;NULL;NULL
+1519;2018;UK;3;SuRie;Storm;48;24
+1520;2018;IRL;3;Ryan O'Shaughnessy;Together;136;16
+1521;2018;ISL;1;Ari √ìlafsson;Our Choice;NULL;NULL
+1522;2018;ISR;3;Netta;Toy;529;1
+1523;2018;I;3;Ermal Meta & Fabrizio Moro;Non mi avete fatto niente;308;5
+1524;2018;CRO;1;Franka;Crazy;NULL;NULL
+1525;2018;LET;2;Laura Rizzotto;Funny Girl;NULL;NULL
+1526;2018;LIT;3;Ieva Zasimauskaitƒó ;When We're Old;181;12
+1527;2018;MD;3;DoReDoS;My Lucky Day;209;10
+1528;2018;MAL;2;Christabelle;Taboo;NULL;NULL
+1529;2018;ME;2;Vanja Radovanoviƒá;Inje;NULL;NULL
+1530;2018;NL;3;Waylon;Outlaw In 'Em;121;18
+1531;2018;N;3;Alexander Rybak;That's How You Write A Song;144;15
+1532;2018;AUT;3;Ces√°r Sampson ;Nobody But You;342;3
+1533;2018;AUS;3;Jessica Mauboy;We Got Love;99;20
+1534;2018;PL;2;Gromee feat. Lukas Meijer;Light Me Up;NULL;NULL
+1535;2018;POR;3;Cl√°udia Pascoal;O Jardim;39;26
+1536;2018;ROM;2;The Humans;Goodbye;NULL;NULL
+1537;2018;RUS;2;Julia Samoylova;I Won't Break;NULL;NULL
+1538;2018;SM;2;Jessika feat. Jenifer Brening;Who We Are;NULL;NULL
+1539;2018;CH;1;Zibbz;Stones;NULL;NULL
+1540;2018;SRB;3;Sanja Iliƒá & Balkanika;Nova deca;113;19
+1541;2018;SLO;3;Lea Sirk;Hvala, ne;64;22
+1542;2018;E;3;Alfred & Amaia;Tu Canci√≥n;61;23
+1543;2018;CZ;3;Mikolas Josef;Lie To Me;281;6
+1544;2018;UKR;3;M√©lovin;Under The Ladder;130;17
+1545;2018;H;3;AWS;Viszl√°t ny√°r;93;21
+1546;2018;BRS;1;Alekseev ;Forever;NULL;NULL
+1547;2018;ZYP;3;Eleni Foureira;Fuego;436;2
+1548;2018;MAZ;1;Eye Cue;Lost And Found;NULL;NULL
+1549;2018;S;3;Benjamin Ingrosso;Dance You Off;274;7
+1550;2019;D;3;NULL;NULL;NULL;NULL
+1551;2019;ISR;3;NULL;NULL;NULL;NULL
+1552;2019;B;0;NULL;NULL;NULL;NULL
+1553;2019;DK;0;NULL;NULL;NULL;NULL
+1554;2019;SF;0;NULL;NULL;NULL;NULL
+1555;2019;F;3;NULL;NULL;NULL;NULL
+1556;2019;LIT;0;NULL;NULL;NULL;NULL
+1557;2019;MAL;0;NULL;NULL;NULL;NULL
+1558;2019;N;0;NULL;NULL;NULL;NULL
+1559;2019;S;0;NULL;NULL;NULL;NULL
+1560;2019;CH;0;NULL;NULL;NULL;NULL
+1561;2019;SRB;0;NULL;NULL;NULL;NULL
+1562;2019;E;3;NULL;NULL;NULL;NULL
+1563;2019;ZYP;0;NULL;NULL;NULL;NULL
